@@ -1,0 +1,2577 @@
+[
+    {
+      "kanji": true,
+      "fronttext": "今日",
+      "backtext": "Today",
+      "source": "book1"
+    },
+    {
+      "kanji": false,
+      "fronttext": "した",
+      "backtext": "under",
+      "source": "book1"
+    },
+    {
+      "kanji": false,
+      "fronttext": "どこか",
+      "backtext": "somewhere, anywhere",
+      "source": "book2",
+      "page": 3
+    },
+    {
+      "kanji": false,
+      "fronttext": "どこも",
+      "backtext": "anywhere, nowhere",
+      "source": "book2",
+      "page": 3
+    },
+    {
+      "kanji": false,
+      "fronttext": "カナダ",
+      "backtext": "Canada",
+      "source": "book2",
+      "page": 3
+    },
+    {
+      "kanji": true,
+      "fronttext": "何か",
+      "backtext": "something, anything (nanika)",
+      "source": "book2",
+      "page": 3
+    },
+    {
+      "kanji": false,
+      "fronttext": "いいでしょうか",
+      "backtext": "Would (it) be good?",
+      "source": "book2",
+      "page": 3
+    },
+    {
+      "kanji": false,
+      "fronttext": "ゆかた",
+      "backtext": "informal cotton kimono",
+      "source": "book2",
+      "page": 3
+    },
+    {
+      "kanji": false,
+      "fronttext": "さいきん",
+      "backtext": "recently",
+      "source": "book2",
+      "page": 3
+    },
+    {
+      "kanji": true,
+      "fronttext": "人気があります",
+      "backtext": "be popular, be fashionable (ninki ga arimasu)",
+      "source": "book2",
+      "page": 3
+    },
+    {
+      "kanji": false,
+      "fronttext": "～の　ほうが",
+      "backtext": "lit., the alternative of (ワイン のほう が ビール より たき です - wine is more expensive than beer)",
+      "source": "book2",
+      "page": 3
+    },
+    {
+      "kanji": false,
+      "fronttext": "あとで",
+      "backtext": "later",
+      "source": "book2",
+      "page": 3
+    },
+    {
+      "kanji": false,
+      "fronttext": "きいてみます",
+      "backtext": "try asking",
+      "source": "book2",
+      "page": 3
+    },
+    {
+      "kanji": false,
+      "fronttext": "～てみます",
+      "backtext": "try and see how it goes, combines with verb te forms",
+      "source": "book2",
+      "page": 3
+    },
+    {
+      "kanji": false,
+      "fronttext": "だれか",
+      "backtext": "someone",
+      "source": "book2",
+      "page": 4
+    },
+    {
+      "kanji": false,
+      "fronttext": "いつか",
+      "backtext": "sometime, when",
+      "source": "book2",
+      "page": 4
+    },
+    {
+      "kanji": false,
+      "fronttext": "へや",
+      "backtext": "room",
+      "source": "book2",
+      "page": 4
+    },
+    {
+      "kanji": false,
+      "fronttext": "のみもの は　コーヒー　が　いいです",
+      "backtext": "As for a beverage, coffee would be good. (Ordering Coffee)",
+      "source": "book2",
+      "page": 5
+    },
+    {
+      "kanji": false,
+      "fronttext": "のみもの",
+      "backtext": "Beverage, drink",
+      "source": "book2",
+      "page": 5
+    },
+    {
+      "kanji": true,
+      "fronttext": "例",
+      "backtext": "Example, （れい）",
+      "source": "book2",
+      "page": 5
+    },
+    {
+      "kanji": false,
+      "fronttext": "デザート",
+      "backtext": "Dessert",
+      "source": "book2",
+      "page": 5
+    },
+    {
+      "kanji": false,
+      "fronttext": "レッスン",
+      "backtext": "Lesson",
+      "source": "book2",
+      "page": 5
+    },
+    {
+      "kanji": false,
+      "fronttext": "プロジェクと",
+      "backtext": "Project",
+      "source": "book2",
+      "page": 5
+    },
+    {
+      "kanji": false,
+      "fronttext": "チーフ",
+      "backtext": "Chief",
+      "source": "book2",
+      "page": 5
+    },
+    {
+      "kanji": false,
+      "fronttext": "～より",
+      "backtext": "than (particle), ビール　より　が　たかい　です (Beer's less expensive)",
+      "source": "book2",
+      "page": 5
+    },
+    {
+      "kanji": false,
+      "fronttext": "どちら",
+      "backtext": "Which one (of the two) コーヒー こうちゃ と どちら が 高い です か (is coffee or tea more expensive?)",
+      "source": "book2",
+      "page": 5
+    },
+    {
+      "kanji": false,
+      "fronttext": "いちばん",
+      "backtext": "Number one, the best",
+      "source": "book2",
+      "page": 8
+    },
+    {
+      "kanji": false,
+      "fronttext": "ごかぞく",
+      "backtext": "Family (someone else's)",
+      "source": "book2",
+      "page": 8
+    },
+    {
+      "kanji": false,
+      "fronttext": "リスト",
+      "backtext": "List",
+      "source": "book2",
+      "page": 8
+    },
+    {
+      "kanji": true,
+      "fronttext": "スポーツ　の　なか　で　サッカー　が　いちばん　人気　が　あります",
+      "backtext": "Soccer is the most popular of all sports",
+      "source": "book2",
+      "page": 8
+    },
+    {
+      "kanji": false,
+      "fronttext": "スポーツ　の　なか　で　何が　いちばん　すきですか",
+      "backtext": "What's your favorite sport? (lit. Of all sports, what is the best?)",
+      "source": "book2",
+      "page": 8
+    },
+    {
+      "kanji": false,
+      "fronttext": "いちばん",
+      "backtext": "Number one, the best",
+      "source": "book2",
+      "page": 8
+    },
+    {
+      "kanji": false,
+      "fronttext": "サッカー　と　テニス　と　ゴルフ　の中で　どれが　いちばん　すきですか",
+      "backtext": "Which among soccer, tennis, and gold do you like best?",
+      "source": "book2",
+      "page": 8
+    },
+    {
+      "kanji": true,
+      "fronttext": "雨が多い",
+      "backtext": "It rains a lot",
+      "source": "book2",
+      "page": 9
+    },
+    {
+      "kanji": true,
+      "fronttext": "雨",
+      "backtext": "Rain",
+      "source": "book2",
+      "page": 9
+    },
+    {
+      "kanji": true,
+      "fronttext": "雨がすくない",
+      "backtext": "It doesn't rain much",
+      "source": "book2",
+      "page": 9
+    },
+    {
+      "kanji": false,
+      "fronttext": "くつ　を　はいてみます",
+      "backtext": "Try on shoes",
+      "source": "book2",
+      "page": 9
+    },
+    {
+      "kanji": false,
+      "fronttext": "けいたいケース",
+      "backtext": "Cell phone case",
+      "source": "book2",
+      "page": 10
+    },
+    {
+      "kanji": false,
+      "fronttext": "アドレスちょう",
+      "backtext": "Address book",
+      "source": "book2",
+      "page": 10
+    },
+    {
+      "kanji": false,
+      "fronttext": "おさら",
+      "backtext": "Dish (plate)",
+      "source": "book2",
+      "page": 10
+    },
+    {
+      "kanji": false,
+      "fronttext": "かいしゃのひと",
+      "backtext": "People at the office",
+      "source": "book2",
+      "page": 11
+    },
+    {
+      "kanji": false,
+      "fronttext": "どちらも　おいしい　ね",
+      "backtext": "They're both good, aren't they?",
+      "source": "book2",
+      "page": 11
+    },
+    {
+      "kanji": false,
+      "fronttext": "りょうほう かいましょう",
+      "backtext": "Let's buy both",
+      "source": "book2",
+      "page": 11
+    },
+    {
+      "kanji": false,
+      "fronttext": "しゅうまつ　は　どこも　こんでいます",
+      "backtext": "On weekends it's crowded",
+      "source": "book2",
+      "page": 12
+    },
+    {
+      "kanji": false,
+      "fronttext": "へいじつ　の　ほう　が　べんり　です",
+      "backtext": "Weekdays are more convenient",
+      "source": "book2",
+      "page": 12
+    },
+    {
+      "kanji": false,
+      "fronttext": "かいがい",
+      "backtext": "Overseas",
+      "source": "book2",
+      "page": 13
+    },
+    {
+      "kanji": false,
+      "fronttext": "～むけ　（かいがいむけ、こどもむけ）",
+      "backtext": "Geared toward, for. Like products for _",
+      "source": "book2",
+      "page": 13
+    },
+    {
+      "kanji": false,
+      "fronttext": "かいほつ",
+      "backtext": "Development",
+      "source": "book2",
+      "page": 13
+    },
+    {
+      "kanji": true,
+      "fronttext": "来ます",
+      "backtext": "Come (きます)",
+      "source": "book2",
+      "page": 14
+    },
+    {
+      "kanji": true,
+      "fronttext": "来週",
+      "backtext": "Next week　（らいしゅう）",
+      "source": "book2",
+      "page": 14
+    },
+    {
+      "kanji": true,
+      "fronttext": "行きます",
+      "backtext": "To go　（いきます）",
+      "source": "book2",
+      "page": 14
+    },
+    {
+      "kanji": true,
+      "fronttext": "銀行",
+      "backtext": "Bank　（ぎんこう）",
+      "source": "book2",
+      "page": 14
+    },
+    {
+      "kanji": true,
+      "fronttext": "今",
+      "backtext": "Now （いま）",
+      "source": "book2",
+      "page": 14
+    },
+    {
+      "kanji": true,
+      "fronttext": "今週",
+      "backtext": "This week （こんしゅう）",
+      "source": "book2",
+      "page": 14
+    },
+    {
+      "kanji": true,
+      "fronttext": "今年",
+      "backtext": "This year （ことし）",
+      "source": "book2",
+      "page": 14
+    },
+    {
+      "kanji": true,
+      "fronttext": "年",
+      "backtext": "Year, （ねん）",
+      "source": "book2",
+      "page": 14
+    },
+    {
+      "kanji": true,
+      "fronttext": "来年",
+      "backtext": "Next year, （らいねん）",
+      "source": "book2",
+      "page": 14
+    },
+    {
+      "kanji": true,
+      "fronttext": "何",
+      "backtext": "What （なに",
+      "source": "book2",
+      "page": 15
+    },
+    {
+      "kanji": true,
+      "fronttext": "何年",
+      "backtext": "What year （なんねん）",
+      "source": "book2",
+      "page": 15
+    },
+    {
+      "kanji": true,
+      "fronttext": "人",
+      "backtext": "Person （ひと）",
+      "source": "book2",
+      "page": 15
+    },
+    {
+      "kanji": true,
+      "fronttext": "何人",
+      "backtext": "How many people, what people （なんにん）",
+      "source": "book2",
+      "page": 15
+    },
+    {
+      "kanji": true,
+      "fronttext": "カナダ人",
+      "backtext": "Canadian （かなだじん）",
+      "source": "book2",
+      "page": 15
+    },
+    {
+      "kanji": true,
+      "fronttext": "気",
+      "backtext": "Spirit, mind",
+      "source": "book2",
+      "page": 15
+    },
+    {
+      "kanji": true,
+      "fronttext": "人気",
+      "backtext": "Popular",
+      "source": "book2",
+      "page": 15
+    },
+    {
+      "kanji": true,
+      "fronttext": "一",
+      "backtext": "One （いひ）",
+      "source": "book2",
+      "page": 15
+    },
+    {
+      "kanji": true,
+      "fronttext": "一つ",
+      "backtext": "First （ひとつ）",
+      "source": "book2",
+      "page": 15
+    },
+    {
+      "kanji": true,
+      "fronttext": "二",
+      "backtext": "Two （に）",
+      "source": "book2",
+      "page": 15
+    },
+    {
+      "kanji": true,
+      "fronttext": "二つ",
+      "backtext": "Second （ふたつ）",
+      "source": "book2",
+      "page": 15
+    },
+    {
+      "kanji": true,
+      "fronttext": "三",
+      "backtext": "Three （さん）",
+      "source": "book2",
+      "page": 16
+    },
+    {
+      "kanji": true,
+      "fronttext": "三つ",
+      "backtext": "Third （みっつ）",
+      "source": "book2",
+      "page": 16
+    },
+    {
+      "kanji": true,
+      "fronttext": "四",
+      "backtext": "Four (よん/し）",
+      "source": "book2",
+      "page": 16
+    },
+    {
+      "kanji": true,
+      "fronttext": "四つ",
+      "backtext": "Fourth （よっつ）",
+      "source": "book2",
+      "page": 16
+    },
+    {
+      "kanji": true,
+      "fronttext": "四十",
+      "backtext": "Forty, （よんじゅう）",
+      "source": "book2",
+      "page": 16
+    },
+    {
+      "kanji": true,
+      "fronttext": "五",
+      "backtext": "Five （ご）",
+      "source": "book2",
+      "page": 16
+    },
+    {
+      "kanji": true,
+      "fronttext": "五つ",
+      "backtext": "Fifth （いつつ）",
+      "source": "book2",
+      "page": 16
+    },
+    {
+      "kanji": true,
+      "fronttext": "六",
+      "backtext": "Six （ろく）",
+      "source": "book2",
+      "page": 16
+    },
+    {
+      "kanji": true,
+      "fronttext": "六つ",
+      "backtext": "Sixth（むっつ）",
+      "source": "book2",
+      "page": 16
+    },
+    {
+      "kanji": true,
+      "fronttext": "七",
+      "backtext": "Seven （なな・しち）",
+      "source": "book2",
+      "page": 16
+    },
+    {
+      "kanji": true,
+      "fronttext": "七つ",
+      "backtext": "Seventh（ななつ）",
+      "source": "book2",
+      "page": 16
+    },
+    {
+      "kanji": true,
+      "fronttext": "八つ",
+      "backtext": "Eighth （やっつ）",
+      "source": "book2",
+      "page": 17
+    },
+    {
+      "kanji": true,
+      "fronttext": "八",
+      "backtext": "Eight　（はち）",
+      "source": "book2",
+      "page": 17
+    },
+    {
+      "kanji": true,
+      "fronttext": "九つ",
+      "backtext": "Ninth （ここのつ）",
+      "source": "book2",
+      "page": 17
+    },
+    {
+      "kanji": true,
+      "fronttext": "九",
+      "backtext": "Nine （きゅう/く）",
+      "source": "book2",
+      "page": 17
+    },
+    {
+      "kanji": true,
+      "fronttext": "十",
+      "backtext": "Ten （とお・じゅう）",
+      "source": "book2",
+      "page": 17
+    },
+    {
+      "kanji": true,
+      "fronttext": "百",
+      "backtext": "One hundred （ひゃく）",
+      "source": "book2",
+      "page": 17
+    },
+    {
+      "kanji": true,
+      "fronttext": "三百",
+      "backtext": "Three hundred （さんびゃく）",
+      "source": "book2",
+      "page": 17
+    },
+    {
+      "kanji": true,
+      "fronttext": "六百",
+      "backtext": "Six hundred （ろっぴゃく）",
+      "source": "book2",
+      "page": 17
+    },
+    {
+      "kanji": true,
+      "fronttext": "千",
+      "backtext": "Thousand （せん）",
+      "source": "book2",
+      "page": 17
+    },
+    {
+      "kanji": true,
+      "fronttext": "二千",
+      "backtext": "Two thousand (にせん）",
+      "source": "book2",
+      "page": 17
+    },
+    {
+      "kanji": true,
+      "fronttext": "三千",
+      "backtext": "Three thousand （さんぜん）",
+      "source": "book2",
+      "page": 17
+    },
+    {
+      "kanji": true,
+      "fronttext": "八千",
+      "backtext": "Eight thousand （はっせん）",
+      "source": "book2",
+      "page": 17
+    },
+    {
+      "kanji": true,
+      "fronttext": "店員",
+      "backtext": "Salesperson, clerk （てんいん）",
+      "source": "book2",
+      "page": 19
+    },
+    {
+      "kanji": false,
+      "fronttext": "かいたいん　です　が",
+      "backtext": "I would like to buy... (seeking advice)",
+      "source": "book2",
+      "page": 20
+    },
+    {
+      "kanji": false,
+      "fronttext": "こちら",
+      "backtext": "This, this one (here) (polite)",
+      "source": "book2",
+      "page": 19
+    },
+    {
+      "kanji": false,
+      "fronttext": "もっと",
+      "backtext": "More",
+      "source": "book2",
+      "page": 19
+    },
+    {
+      "kanji": true,
+      "fronttext": "せが高い",
+      "backtext": "Tall （せがたかい）",
+      "source": "book2",
+      "page": 19
+    },
+    {
+      "kanji": false,
+      "fronttext": "このぐらい",
+      "backtext": "About like this",
+      "source": "book2",
+      "page": 19
+    },
+    {
+      "kanji": false,
+      "fronttext": "おおき　かた　です　ね",
+      "backtext": "Ah, a tall person (polite)",
+      "source": "book2",
+      "page": 19
+    },
+    {
+      "kanji": true,
+      "fronttext": "プレゼント用",
+      "backtext": "For use as a present, 用 = （よう）for",
+      "source": "book2",
+      "page": 19
+    },
+    {
+      "kanji": false,
+      "fronttext": "つつみます",
+      "backtext": "To wrap",
+      "source": "book2",
+      "page": 19
+    },
+    {
+      "kanji": false,
+      "fronttext": "はやい",
+      "backtext": "Fast",
+      "source": "book2",
+      "page": 20
+    },
+    {
+      "kanji": true,
+      "fronttext": "ゆかた　は　きもの　より　安です",
+      "backtext": "Yukata are cheaper than kimono",
+      "source": "book2",
+      "page": 21
+    },
+    {
+      "kanji": true,
+      "fronttext": "Aホテル　は　東京　で　いちばん　ゆうめい　です",
+      "backtext": "Hotel A is the most famous in Tokyo",
+      "source": "book2",
+      "page": 21
+    },
+    {
+      "kanji": false,
+      "fronttext": "ひろい",
+      "backtext": "spacious",
+      "source": "book2",
+      "page": 22
+    },
+    {
+      "kanji": false,
+      "fronttext": "せーびす",
+      "backtext": "Service",
+      "source": "book2",
+      "page": 22
+    },
+    {
+      "kanji": false,
+      "fronttext": "かんたん",
+      "backtext": "Simple (な　adjective)",
+      "source": "book2",
+      "page": 22
+    },
+    {
+      "kanji": false,
+      "fronttext": "がいごく",
+      "backtext": "Foreign country",
+      "source": "book2",
+      "page": 22
+    },
+    {
+      "kanji": false,
+      "fronttext": "もっと　おおき　の　は　ありませんか",
+      "backtext": "Do you have a bigger one?",
+      "source": "book2",
+      "page": 23
+    },
+    {
+      "kanji": false,
+      "fronttext": "ワンサイズ　大きいのは　ありませんか",
+      "backtext": "Do you have one that is a size bigger",
+      "source": "book2",
+      "page": 23
+    },
+    {
+      "kanji": false,
+      "fronttext": "ひくい",
+      "backtext": "Low, short",
+      "source": "book2",
+      "page": 24
+    },
+    {
+      "kanji": false,
+      "fronttext": "やわらかい",
+      "backtext": "soft",
+      "source": "book2",
+      "page": 24
+    },
+    {
+      "kanji": false,
+      "fronttext": "かたい",
+      "backtext": "hard",
+      "source": "book2",
+      "page": 24
+    },
+    {
+      "kanji": false,
+      "fronttext": "ふとい",
+      "backtext": "wide",
+      "source": "book2",
+      "page": 24
+    },
+    {
+      "kanji": false,
+      "fronttext": "ほそい",
+      "backtext": "thin, narrow",
+      "source": "book2",
+      "page": 24
+    },
+    {
+      "kanji": false,
+      "fronttext": "ながい",
+      "backtext": "long",
+      "source": "book2",
+      "page": 24
+    },
+    {
+      "kanji": false,
+      "fronttext": "あつい",
+      "backtext": "thick",
+      "source": "book2",
+      "page": 24
+    },
+    {
+      "kanji": false,
+      "fronttext": "うすい",
+      "backtext": "thin (cloth, paper, etc)",
+      "source": "book2",
+      "page": 24
+    },
+    {
+      "kanji": false,
+      "fronttext": "かるい",
+      "backtext": "light, lightweight",
+      "source": "book2",
+      "page": 24
+    },
+    {
+      "kanji": false,
+      "fronttext": "おもい",
+      "backtext": "heavy",
+      "source": "book2",
+      "page": 24
+    },
+    {
+      "kanji": false,
+      "fronttext": "ほで",
+      "backtext": "colorful, gaudy（な adjective）",
+      "source": "book2",
+      "page": 24
+    },
+    {
+      "kanji": false,
+      "fronttext": "じみ",
+      "backtext": "plain, subdued (な adjective)",
+      "source": "book2",
+      "page": 24
+    },
+    {
+      "kanji": false,
+      "fronttext": "シンプル",
+      "backtext": "Simple (な adjective)",
+      "source": "book2",
+      "page": 24
+    },
+    {
+      "kanji": false,
+      "fronttext": "はい、しちゃくしつ　は　あちら　です",
+      "backtext": "Yes, the fitting room is over there",
+      "source": "book2",
+      "page": 25
+    },
+    {
+      "kanji": false,
+      "fronttext": "おなじ",
+      "backtext": "same",
+      "source": "book2",
+      "page": 25
+    },
+    {
+      "kanji": false,
+      "fronttext": "Mサイズ　は　うりきれ　です",
+      "backtext": "The medium size is sold out",
+      "source": "book2",
+      "page": 25
+    },
+    {
+      "kanji": false,
+      "fronttext": "げんきん",
+      "backtext": "Cash",
+      "source": "book2",
+      "page": 25
+    },
+    {
+      "kanji": false,
+      "fronttext": "おしはらい　は　げんきん です か、クレジットカード　です か",
+      "backtext": "Will you be paying in cash or credit?",
+      "source": "book2",
+      "page": 25
+    },
+    {
+      "kanji": false,
+      "fronttext": "りょうしん",
+      "backtext": "My parents",
+      "source": "book2",
+      "page": 26
+    },
+    {
+      "kanji": false,
+      "fronttext": "きょうだい",
+      "backtext": "My siblings, brothers and sisters",
+      "source": "book2",
+      "page": 26
+    },
+    {
+      "kanji": false,
+      "fronttext": "そふ　は　いない",
+      "backtext": "I don't have a grandfather",
+      "source": "book2",
+      "page": 26
+    },
+    {
+      "kanji": true,
+      "fronttext": "父",
+      "backtext": "Father (your own) （ちち）",
+      "source": "book2",
+      "page": 26
+    },
+    {
+      "kanji": true,
+      "fronttext": "母",
+      "backtext": "Mother (your own) （はは）",
+      "source": "book2",
+      "page": 26
+    },
+    {
+      "kanji": false,
+      "fronttext": "おい",
+      "backtext": "My Nephew",
+      "source": "book2",
+      "page": 26
+    },
+    {
+      "kanji": false,
+      "fronttext": "めい",
+      "backtext": "My niece",
+      "source": "book2",
+      "page": 26
+    },
+    {
+      "kanji": false,
+      "fronttext": "おじ",
+      "backtext": "My Uncle",
+      "source": "book2",
+      "page": 26
+    },
+    {
+      "kanji": false,
+      "fronttext": "おば",
+      "backtext": "My Aunt",
+      "source": "book2",
+      "page": 26
+    },
+    {
+      "kanji": false,
+      "fronttext": "じょうし",
+      "backtext": "Superior (like at work)",
+      "source": "book2",
+      "page": 26
+    },
+    {
+      "kanji": false,
+      "fronttext": "ぶか",
+      "backtext": "Junior Staff",
+      "source": "book2",
+      "page": 26
+    },
+    {
+      "kanji": false,
+      "fronttext": "となり　の　ひと",
+      "backtext": "Next door neighbor",
+      "source": "book2",
+      "page": 26
+    },
+    {
+      "kanji": false,
+      "fronttext": "まち　の　こうがい　は　いい　です　か",
+      "backtext": "Are the city suburbs nice?",
+      "source": "book2",
+      "page": 27
+    },
+    {
+      "kanji": true,
+      "fronttext": "しごと　を　やめて　今　うち　に　います",
+      "backtext": "Quit your job and now is at home (今＝いま）",
+      "source": "book2",
+      "page": 27
+    },
+    {
+      "kanji": true,
+      "fronttext": "二人とも　とても　せが　高いです",
+      "backtext": "Both of them are very tall (二人とも＝ふたりとも、　高い＝たかい)",
+      "source": "book2",
+      "page": 27
+    },
+    {
+      "kanji": true,
+      "fronttext": "北海道　の　しき　の　はな　です",
+      "backtext": "Hokkaido's flowers in the four seasons",
+      "source": "book2",
+      "page": 28
+    },
+    {
+      "kanji": true,
+      "fronttext": "日本　りょうり　しょうかい　の　DVD　は　いかが　です　か",
+      "backtext": "How about this DVD that presents Japanese cuisine? （～しょうかい=that presents ~）",
+      "source": "book2",
+      "page": 28
+    },
+    {
+      "kanji": false,
+      "fronttext": "かります",
+      "backtext": "To borrow, rent",
+      "source": "book2",
+      "page": 29
+    },
+    {
+      "kanji": true,
+      "fronttext": "大きい",
+      "backtext": "Big　（おおきい）",
+      "source": "book2",
+      "page": 30
+    },
+    {
+      "kanji": true,
+      "fronttext": "大学",
+      "backtext": "University （だいがく）",
+      "source": "book2",
+      "page": 30
+    },
+    {
+      "kanji": true,
+      "fronttext": "大人",
+      "backtext": "Adult (おとな）",
+      "source": "book2",
+      "page": 30
+    },
+    {
+      "kanji": true,
+      "fronttext": "小さい",
+      "backtext": "Small （ちいさい）",
+      "source": "book2",
+      "page": 30
+    },
+    {
+      "kanji": true,
+      "fronttext": "小学校",
+      "backtext": "Elementary, primary school （しょうがっこう）",
+      "source": "book2",
+      "page": 30
+    },
+    {
+      "kanji": true,
+      "fronttext": "私",
+      "backtext": "I, private （わたし）",
+      "source": "book2",
+      "page": 30
+    },
+    {
+      "kanji": true,
+      "fronttext": "高校",
+      "backtext": "High school（こうこう）",
+      "source": "book2",
+      "page": 30
+    },
+    {
+      "kanji": true,
+      "fronttext": "安い",
+      "backtext": "cheap （やすい）",
+      "source": "book2",
+      "page": 30
+    },
+    {
+      "kanji": true,
+      "fronttext": "～用",
+      "backtext": "For （よう）",
+      "source": "book2",
+      "page": 31
+    },
+    {
+      "kanji": true,
+      "fronttext": "店",
+      "backtext": "Shop （みせ）",
+      "source": "book2",
+      "page": 31
+    },
+    {
+      "kanji": true,
+      "fronttext": "お父さん",
+      "backtext": "Father （おとうさん）",
+      "source": "book2",
+      "page": 31
+    },
+    {
+      "kanji": true,
+      "fronttext": "お母さん",
+      "backtext": "Mother （おかあさん）",
+      "source": "book2",
+      "page": 31
+    },
+    {
+      "kanji": true,
+      "fronttext": "三十分　ぐらい　前に　そちら　に　かみぶくろ　を　わすれました",
+      "backtext": "About 30 minutes ago, I forgot a paper bag there. （さんじゅうぷん、まえに）",
+      "source": "book2",
+      "page": 32
+    },
+    {
+      "kanji": true,
+      "fronttext": "入っています",
+      "backtext": "Be in/inside",
+      "source": "book2",
+      "page": 33
+    },
+    {
+      "kanji": false,
+      "fronttext": "レジ　の　あたり",
+      "backtext": "In the general area of the register",
+      "source": "book2",
+      "page": 33
+    },
+    {
+      "kanji": false,
+      "fronttext": "とります",
+      "backtext": "To take, get",
+      "source": "book2",
+      "page": 33
+    },
+    {
+      "kanji": false,
+      "fronttext": "しんしょうひん",
+      "backtext": "New product. しん is a prefix meaning new",
+      "source": "book2",
+      "page": 33
+    },
+    {
+      "kanji": false,
+      "fronttext": "ああ、よかった",
+      "backtext": "Oh, good!",
+      "source": "book2",
+      "page": 33
+    },
+    {
+      "kanji": true,
+      "fronttext": "とりに行きます",
+      "backtext": "I'll come and get it (lit. go to get)",
+      "source": "book2",
+      "page": 33
+    },
+    {
+      "kanji": false,
+      "fronttext": "いくつか",
+      "backtext": "Some, a number of, several",
+      "source": "book2",
+      "page": 33
+    },
+    {
+      "kanji": true,
+      "fronttext": "白くて　大きい　かみぶくろ",
+      "backtext": "Large and white paper bag （白＝しろい、大きい＝おおき）",
+      "source": "book2",
+      "page": 32
+    },
+    {
+      "kanji": false,
+      "fronttext": "わすれもの",
+      "backtext": "Thing left behind",
+      "source": "book2",
+      "page": 34
+    },
+    {
+      "kanji": true,
+      "fronttext": "ミルズさんはカナダ人で、加藤さん　は　日本人　です",
+      "backtext": "Mr Mills is Canadian, Mr （加藤＝かとう） Kato is Japanese. (note the で connects the two sentences)",
+      "source": "book2",
+      "page": 34
+    },
+    {
+      "kanji": true,
+      "fronttext": "ちかてつ　は　べんり　で　安い　です",
+      "backtext": "Subways are convenient and cheap. （安い＝やすい）(note the で connects the na adjective べんり and やすい)",
+      "source": "book2",
+      "page": 35
+    },
+    {
+      "kanji": true,
+      "fronttext": "この　ケーキ　は　おいしい　です　が、高い　です",
+      "backtext": "This cake is delicious but expensive",
+      "source": "book2",
+      "page": 35
+    },
+    {
+      "kanji": true,
+      "fronttext": "水　を　のんでいます",
+      "backtext": "I'm drinking water (水＝みず）",
+      "source": "book2",
+      "page": 36
+    },
+    {
+      "kanji": false,
+      "fronttext": "かさ　と　しんぶん　を　もっています",
+      "backtext": "I'm carrying an umbrella and newspaper",
+      "source": "book2",
+      "page": 36
+    },
+    {
+      "kanji": false,
+      "fronttext": "すわっています",
+      "backtext": "I'm sitting",
+      "source": "book2",
+      "page": 36
+    },
+    {
+      "kanji": false,
+      "fronttext": "かぶります",
+      "backtext": "To put on (a hat)",
+      "source": "book2",
+      "page": 36
+    },
+    {
+      "kanji": true,
+      "fronttext": "グラスに　ワインが　入っています",
+      "backtext": "Wine is in the glass (入って＝はいって）",
+      "source": "book2",
+      "page": 37
+    },
+    {
+      "kanji": false,
+      "fronttext": "バッグ に　はな が　ついています",
+      "backtext": "A flower is attached to the bag",
+      "source": "book2",
+      "page": 37
+    },
+    {
+      "kanji": false,
+      "fronttext": "はこ",
+      "backtext": "bpx",
+      "source": "book2",
+      "page": 37
+    },
+    {
+      "kanji": false,
+      "fronttext": "きんこ",
+      "backtext": "Safe (Like a bank safe)",
+      "source": "book2",
+      "page": 37
+    },
+    {
+      "kanji": false,
+      "fronttext": "しょるい",
+      "backtext": "Document",
+      "source": "book2",
+      "page": 37
+    },
+    {
+      "kanji": false,
+      "fronttext": "なふだ",
+      "backtext": "Tag",
+      "source": "book2",
+      "page": 37
+    },
+    {
+      "kanji": true,
+      "fronttext": "えいが　を　みに行きます",
+      "backtext": "Go and see a movie (行＝いき)",
+      "source": "book2",
+      "page": 38
+    },
+    {
+      "kanji": true,
+      "fronttext": "何か　たべに　行きませんか",
+      "backtext": "What to go and eat",
+      "source": "book2",
+      "page": 38
+    },
+    {
+      "kanji": true,
+      "fronttext": "こんど　うちに　あそびに　来てください",
+      "backtext": "Next time come to my house and play （来＝き）",
+      "source": "book2",
+      "page": 38
+    },
+    {
+      "kanji": true,
+      "fronttext": "ゆうびんきょく　に　きって　を　かいに　行きます",
+      "backtext": "Go to the post office and buy stamps　（行＝い）",
+      "source": "book2",
+      "page": 38
+    },
+    {
+      "kanji": false,
+      "fronttext": "うちに　わすれもの　を　とりに　かえります",
+      "backtext": "Go home and get the thing I forgot",
+      "source": "book2",
+      "page": 38
+    },
+    {
+      "kanji": false,
+      "fronttext": "めがね",
+      "backtext": "glasses",
+      "source": "book2",
+      "page": 39
+    },
+    {
+      "kanji": false,
+      "fronttext": "てぶくろ",
+      "backtext": "gloves",
+      "source": "book2",
+      "page": 39
+    },
+    {
+      "kanji": false,
+      "fronttext": "かわ",
+      "backtext": "Leather",
+      "source": "book2",
+      "page": 39
+    },
+    {
+      "kanji": false,
+      "fronttext": "マフロー",
+      "backtext": "Scarf",
+      "source": "book2",
+      "page": 39
+    },
+    {
+      "kanji": false,
+      "fronttext": "ほんだな",
+      "backtext": "Bookshelf",
+      "source": "book2",
+      "page": 39
+    },
+    {
+      "kanji": false,
+      "fronttext": "けさ",
+      "backtext": "This morning",
+      "source": "book2",
+      "page": 30
+    },
+    {
+      "kanji": false,
+      "fronttext": "しょうしょう おまちください",
+      "backtext": "Please wait a little (polite)",
+      "source": "book2",
+      "page": 40
+    },
+    {
+      "kanji": false,
+      "fronttext": "さっき　まどの　ちかく　の　せき　に　すわりました",
+      "backtext": "Just a while ago I was sitting near the window",
+      "source": "book2",
+      "page": 40
+    },
+    {
+      "kanji": false,
+      "fronttext": "おりたたみ",
+      "backtext": "Folding/fold-up. i.e. ありたたみかさ folding umbrella",
+      "source": "book2",
+      "page": 40
+    },
+    {
+      "kanji": false,
+      "fronttext": "さがしましたが、　ございません",
+      "backtext": "I looked for (it), but it wasn't there (polite)",
+      "source": "book2",
+      "page": 40
+    },
+    {
+      "kanji": false,
+      "fronttext": "くび",
+      "backtext": "neck",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "うて",
+      "backtext": "arm",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "むね",
+      "backtext": "Chest/breast",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "ひぎ",
+      "backtext": "knee",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "かみのけ",
+      "backtext": "hair",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "ひたい",
+      "backtext": "forehead",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "まゆげ",
+      "backtext": "eyebrow",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "はな",
+      "backtext": "nose",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "ほお",
+      "backtext": "cheek",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "ひげ",
+      "backtext": "beard/mustache",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "みみ",
+      "backtext": "ear",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "くち",
+      "backtext": "mouth",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "あかるい",
+      "backtext": "cheerful",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "つめたい",
+      "backtext": "cold (personality)",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "やさしい",
+      "backtext": "gentle/kind",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "げんき",
+      "backtext": "Energetic, well, な　adjective",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "おとなしい",
+      "backtext": "mild mannered",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "まじめ",
+      "backtext": "serious な adjective",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "がんこ",
+      "backtext": "stubborn な　adjective",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "きびしい",
+      "backtext": "strict",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": false,
+      "fronttext": "いじわる",
+      "backtext": "mean な　adjective",
+      "source": "book2",
+      "page": 41
+    },
+    {
+      "kanji": true,
+      "fronttext": "きのう　くうこうで　ゆうめいな　人を　みました",
+      "backtext": "Yesterday I saw a famous person at the airport (人＝ひと）",
+      "source": "book2",
+      "page": 42
+    },
+    {
+      "kanji": false,
+      "fronttext": "わかった",
+      "backtext": "I know/I've understood",
+      "source": "book2",
+      "page": 42
+    },
+    {
+      "kanji": false,
+      "fronttext": "なんとか",
+      "backtext": "something or other",
+      "source": "book2",
+      "page": 42
+    },
+    {
+      "kanji": false,
+      "fronttext": "やっと　いい　アパートが　みつかりました",
+      "backtext": "I finally found a good apartment",
+      "source": "book2",
+      "page": 42
+    },
+    {
+      "kanji": false,
+      "fronttext": "みつかります",
+      "backtext": "To be able to find",
+      "source": "book2",
+      "page": 42
+    },
+    {
+      "kanji": false,
+      "fronttext": "おわります",
+      "backtext": "To end/finish",
+      "source": "book2",
+      "page": 43
+    },
+    {
+      "kanji": false,
+      "fronttext": "おくりに　いきます",
+      "backtext": "To see someone off, like for a flight",
+      "source": "book2",
+      "page": 43
+    },
+    {
+      "kanji": false,
+      "fronttext": "ちゃいろ",
+      "backtext": "Brown",
+      "source": "book2",
+      "page": 43
+    },
+    {
+      "kanji": true,
+      "fronttext": "分",
+      "backtext": "minute or part （ぷん/ふん）",
+      "source": "book2",
+      "page": 44
+    },
+    {
+      "kanji": true,
+      "fronttext": "気分",
+      "backtext": "Feeling （きぶん）",
+      "source": "book2",
+      "page": 44
+    },
+    {
+      "kanji": true,
+      "fronttext": "分けます",
+      "backtext": "To divide （わけます）",
+      "source": "book2",
+      "page": 44
+    },
+    {
+      "kanji": true,
+      "fronttext": "前",
+      "backtext": "In front/before （まえ）",
+      "source": "book2",
+      "page": 44
+    },
+    {
+      "kanji": true,
+      "fronttext": "午前",
+      "backtext": "Morning (ごぜん）",
+      "source": "book2",
+      "page": 44
+    },
+    {
+      "kanji": true,
+      "fronttext": "後ろ",
+      "backtext": "Back/after （うしろ）",
+      "source": "book2",
+      "page": 44
+    },
+    {
+      "kanji": true,
+      "fronttext": "後で",
+      "backtext": "After （あとで）",
+      "source": "book2",
+      "page": 44
+    },
+    {
+      "kanji": true,
+      "fronttext": "午後",
+      "backtext": "Afternoon （ごご）",
+      "source": "book2",
+      "page": 44
+    },
+    {
+      "kanji": true,
+      "fronttext": "午",
+      "backtext": "Noon （ご）",
+      "source": "book2",
+      "page": 44
+    },
+    {
+      "kanji": true,
+      "fronttext": "白い",
+      "backtext": "White （しろい）",
+      "source": "book2",
+      "page": 44
+    },
+    {
+      "kanji": true,
+      "fronttext": "中",
+      "backtext": "Inside （なか）",
+      "source": "book2",
+      "page": 45
+    },
+    {
+      "kanji": true,
+      "fronttext": "午前中",
+      "backtext": "In the morning （ごぜんちゅう）",
+      "source": "book2",
+      "page": 45
+    },
+    {
+      "kanji": true,
+      "fronttext": "一年中",
+      "backtext": "All year round （いちねんじゅう）",
+      "source": "book2",
+      "page": 45
+    },
+    {
+      "kanji": true,
+      "fronttext": "入ります",
+      "backtext": "To enter（はいります）",
+      "source": "book2",
+      "page": 45
+    },
+    {
+      "kanji": true,
+      "fronttext": "入れます",
+      "backtext": "To put （いれます）",
+      "source": "book2",
+      "page": 45
+    },
+    {
+      "kanji": true,
+      "fronttext": "入口",
+      "backtext": "Entrance （いりぐち）",
+      "source": "book2",
+      "page": 45
+    },
+    {
+      "kanji": true,
+      "fronttext": "入学",
+      "backtext": "Admission（にゅうがく）",
+      "source": "book2",
+      "page": 45
+    },
+    {
+      "kanji": true,
+      "fronttext": "火",
+      "backtext": "Fire （ひ）",
+      "source": "book2",
+      "page": 45
+    },
+    {
+      "kanji": true,
+      "fronttext": "火曜日",
+      "backtext": "Tuesday （かようび）",
+      "source": "book2",
+      "page": 45
+    },
+    {
+      "kanji": true,
+      "fronttext": "水",
+      "backtext": "Water （みず）",
+      "source": "book2",
+      "page": 45
+    },
+    {
+      "kanji": true,
+      "fronttext": "水曜日",
+      "backtext": "Wednesday （すいようび）",
+      "source": "book2",
+      "page": 45
+    },
+    {
+      "kanji": true,
+      "fronttext": "お金",
+      "backtext": "Gold/money （おかね）",
+      "source": "book2",
+      "page": 45
+    },
+    {
+      "kanji": true,
+      "fronttext": "金曜日",
+      "backtext": "Friday（きんようび）",
+      "source": "book2",
+      "page": 45
+    },
+    {
+      "kanji": false,
+      "fronttext": "はやいですね",
+      "backtext": "(It's) early huh?",
+      "source": "book2",
+      "page": 51
+    },
+    {
+      "kanji": false,
+      "fronttext": "これから",
+      "backtext": "From now/starting now",
+      "source": "book2",
+      "page": 51
+    },
+    {
+      "kanji": false,
+      "fronttext": "ここ　で　するん　です　か",
+      "backtext": "Do you do it here?",
+      "source": "book2",
+      "page": 50
+    },
+    {
+      "kanji": true,
+      "fronttext": "この　ヨガ用のマット　を　つかうんです",
+      "backtext": "I use this yoga mat （用＝よう）",
+      "source": "book2",
+      "page": 51
+    },
+    {
+      "kanji": false,
+      "fronttext": "がんばる",
+      "backtext": "Do your best (informal)",
+      "source": "book2",
+      "page": 51
+    },
+    {
+      "kanji": true,
+      "fronttext": "週に 二回 ともだちに　ならっているん　です",
+      "backtext": "Twice a week I learn from a friend (週＝しゅう、二＝に、回＝かい)",
+      "source": "book2",
+      "page": 51
+    },
+    {
+      "kanji": false,
+      "fronttext": "あわない　(Regular 1 verb)",
+      "backtext": "Don't meet",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "あいます (Regular 1 verb)",
+      "backtext": "To meet",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "かかない (Regular 1 verb かく)",
+      "backtext": "Don't write",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "およがない (Regular 1 verb　およぐ)",
+      "backtext": "Don't swim",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "けさない (Regular 1 verb　けす)",
+      "backtext": "Don't erase",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "またない (Regular 1 verb　まつ)",
+      "backtext": "Don't wait",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "しなない (Regular 1 verb　しぬ)",
+      "backtext": "Don't die",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "よばない (Regular 1 verb　よぶ)",
+      "backtext": "Don't call",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "のまない (Regular 1 verb　のむ)",
+      "backtext": "Don't drink",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "かえらない (Regular 1 verb　かえる)",
+      "backtext": "Don't return/will not return",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "たべない (Regular 2 verb　たべる)",
+      "backtext": "Don't eat",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "あけない (Regular 2 verb　あける)",
+      "backtext": "Don't open",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "みない (Regular 2 verb　みる)",
+      "backtext": "Don't look",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "おりない (Regular 2 verb　おりる)",
+      "backtext": "Don't get off/don't go down",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": true,
+      "fronttext": "来ない (Irregular くる)",
+      "backtext": "Don't come (こない）",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "しない （Irregular する)",
+      "backtext": "Don't do it",
+      "source": "book2",
+      "page": 53
+    },
+    {
+      "kanji": false,
+      "fronttext": "きかない　(Regular I きく)",
+      "backtext": "Don't listen",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "ぬがない　(Regular I ぬぐ）",
+      "backtext": "Don't  take off (clothes/shoes)",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "はなさない　(Regular I はなす)",
+      "backtext": "Don't talk",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "もたない　(Regular I もつ)",
+      "backtext": "Don't have/don't hold",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "あそばない　(Regular I あそぶ)",
+      "backtext": "Don't play",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "よまない　(Regular I よむ)",
+      "backtext": "Don't read",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "ない　(Regular I ある)",
+      "backtext": "Doesn't exist, not there, informal ありません",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "のらない　(Regular I のる)",
+      "backtext": "Don't ride, don't board",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "わからない　(Regular I わかる)",
+      "backtext": "Don't understand",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "かわない (Regular I かう)",
+      "backtext": "Don't buy",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "ならわない (Regular I ならう)",
+      "backtext": "Don't learn",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "いない　(Regular II いる)",
+      "backtext": "Doesn't exist (living), います",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "きない (Regular II きまる)",
+      "backtext": "Don't wear (きます)",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "でない (Regular II でる)",
+      "backtext": "Don't come out/leave (でます)",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "しらべない　(Regular II しらべる)",
+      "backtext": "Don't look into/search/investigate (しらべます)",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "みせない (Regular II みせる)",
+      "backtext": "Don't show (みせます)",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "おしえない (Regular II おしえる)",
+      "backtext": "Don't teach (おしえます)",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "わすれない (Regular II わすれる)",
+      "backtext": "Don't forget (わすれます)",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "あびない　(Regular 2 verb　あびる)",
+      "backtext": "Don't take (a shower) あびます",
+      "source": "book2",
+      "page": 54
+    },
+    {
+      "kanji": false,
+      "fronttext": "じゅんび　を　します",
+      "backtext": "Do preparations",
+      "source": "book2",
+      "page": 56
+    },
+    {
+      "kanji": false,
+      "fronttext": "てれびかいぎ",
+      "backtext": "Teleconference",
+      "source": "book2",
+      "page": 56
+    },
+    {
+      "kanji": false,
+      "fronttext": "おきゃくさま",
+      "backtext": "Customer",
+      "source": "book2",
+      "page": 56
+    },
+    {
+      "kanji": false,
+      "fronttext": "いちば",
+      "backtext": "Market",
+      "source": "book2",
+      "page": 56
+    },
+    {
+      "kanji": false,
+      "fronttext": "あんないします",
+      "backtext": "To show someone around, guide",
+      "source": "book2",
+      "page": 56
+    },
+    {
+      "kanji": false,
+      "fronttext": "むかえます Regular II",
+      "backtext": "To meet",
+      "source": "book2",
+      "page": 56
+    },
+    {
+      "kanji": false,
+      "fronttext": "むかえにきます",
+      "backtext": "Go to meet",
+      "source": "book2",
+      "page": 56
+    },
+    {
+      "kanji": false,
+      "fronttext": "すいています",
+      "backtext": "Be empty",
+      "source": "book2",
+      "page": 56
+    },
+    {
+      "kanji": false,
+      "fronttext": "すきます",
+      "backtext": "Be empty",
+      "source": "book2",
+      "page": 56
+    },
+    {
+      "kanji": false,
+      "fronttext": "ゆかた　を　かいたいんですが、どこに　ありますか",
+      "backtext": "I'd like to buy a yukata, but where do I find one?",
+      "source": "book2",
+      "page": 57
+    },
+    {
+      "kanji": false,
+      "fronttext": "あした　おんせん　に　いくんですが、いっしょに　いかがですか",
+      "backtext": "Tomorrow we're going to the hot springs, would you like to come with us?",
+      "source": "book2",
+      "page": 57
+    },
+    {
+      "kanji": true,
+      "fronttext": "もっと　大きい　の　は　ありませえんか。いもうと　は　私より　せが　高いん　です",
+      "backtext": "Do you have a bigger one? My little sister is taller than I am.",
+      "source": "book2",
+      "page": 57
+    },
+    {
+      "kanji": true,
+      "fronttext": "週に　二回　よがを　ならっているんです",
+      "backtext": "Twice a week I take yoga lessons",
+      "source": "book2",
+      "page": 58
+    },
+    {
+      "kanji": true,
+      "fronttext": "一時間",
+      "backtext": "An hour",
+      "source": "book2",
+      "page": 58
+    },
+    {
+      "kanji": true,
+      "fronttext": "一日",
+      "backtext": "A day",
+      "source": "book2",
+      "page": 58
+    },
+    {
+      "kanji": true,
+      "fronttext": "一週間に　十時間ぐらい　日本語のべんきょうをします",
+      "backtext": "I study Japanese 10 hours a week",
+      "source": "book2",
+      "page": 58
+    },
+    {
+      "kanji": false,
+      "fronttext": "いつむ",
+      "backtext": "Always",
+      "source": "book2",
+      "page": 58
+    },
+    {
+      "kanji": false,
+      "fronttext": "よく (frequency)",
+      "backtext": "Often",
+      "source": "book2",
+      "page": 58
+    },
+    {
+      "kanji": false,
+      "fronttext": "ときどき",
+      "backtext": "Sometimes",
+      "source": "book2",
+      "page": 58
+    },
+    {
+      "kanji": false,
+      "fronttext": "たまに",
+      "backtext": "occasionally",
+      "source": "book2",
+      "page": 58
+    },
+    {
+      "kanji": false,
+      "fronttext": "あまり",
+      "backtext": "not very often (used with a negative form)",
+      "source": "book2",
+      "page": 58
+    },
+    {
+      "kanji": false,
+      "fronttext": "ぜんぜん",
+      "backtext": "never (used with a negative form)",
+      "source": "book2",
+      "page": 58
+    },
+    {
+      "kanji": true,
+      "fronttext": "ほとんど　毎週　どうりょう　と　のみにいきます",
+      "backtext": "Almost every week I go drinking with colleagues",
+      "source": "book2",
+      "page": 59
+    },
+    {
+      "kanji": true,
+      "fronttext": "ホリデーの中で、どちらが　一番好きですか",
+      "backtext": "Of these holidays, which is your favorite?",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "食事　（しょくじ）　の　あとで　甘い（あまい）　ものをたべます",
+      "backtext": "After a meal, (I) eats something sweet （食事＝しょくじ）（後で＝あとで）（甘い＝あまい）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "毎晩　ビール　を　たくさん　飲みます、今から　ダイエット　をします",
+      "backtext": "Every night (I) drink lots of beer, starting now I'll go on a diet （毎晩＝まいばん）（飲み＝のみ （今から＝いまから）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "週に　一回　ジムで　泳ぎます。ジムのインストラクターが　私に　アドバイスをしています",
+      "backtext": "Once a week I work out at the gym. The gym instructor is going to give me advice　（週＝しゅう）(一回＝いっかい）（泳ぎます＝およぎます）（私＝わたし））",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "ハンバーガー を たべないで、 やさい を たべた　ほうが　いいですよ",
+      "backtext": "You shouldn't eat hamburgers, eating vegetables is better",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "食事会",
+      "backtext": "Meal event / meal party （しょくじかい）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "飲み会",
+      "backtext": "Drinking event （のみかい）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "歓迎会",
+      "backtext": "Welcome party (for new employees, students)（かんげいかい）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "送別会",
+      "backtext": "Farewell party　（そうべつかい＝そうべつかい）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "新年会",
+      "backtext": "New Year's Party （しんねんかい）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "忘年会",
+      "backtext": "Forget the year party (end of year party) （ぼうねんかい）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "お花見",
+      "backtext": "Flower viewing",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "きめます (Regular II)",
+      "backtext": "To decide, arrange",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "明後日　の　祝辞会　はどにでするんですか",
+      "backtext": "Where should we have the party the day after tomorrow　(明後日=あさって) (祝辞会=しゅくじかい)",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "また 決めて いないん です",
+      "backtext": "I haven't decided yet （決めて＝きめて）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "知らせた (regular II しらせる)",
+      "backtext": "To notify, let people know（知らせた＝しらせた）",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "レポート　は　もう　かきましたか",
+      "backtext": "Have you written the report yet?",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "いいえ、まだ　かいて　いません",
+      "backtext": "I haven't written (it) yet (but I plan to)",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "いいえ、レポート　は　かいません",
+      "backtext": "I'm not going to write a report",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "さとうさん、帰らないんですか",
+      "backtext": "Sato-san, aren't you going home? （帰らない＝かえらない）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "ええ、これから　いのうえさんと　飲みに行くんです",
+      "backtext": "Yes, I'm going out to drink with Inue-san (飲み＝のみ)（行く＝いく）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "大丈夫　なん　です　か",
+      "backtext": "Is that okay? (なん is taking the place of a verb this is in response to)（大丈夫＝だいじょうぶ）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "生まれる (Regular II)",
+      "backtext": "To be born, うまれます",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "おなじ　いみ　です",
+      "backtext": "Same meaning",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "入学する",
+      "backtext": "First time entering school (にゅうがく　する）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "しけん　を　うける",
+      "backtext": "Go together",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "就職する",
+      "backtext": "Getting a job (しゅうしょくする)",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "転職する",
+      "backtext": "Changing jobs てんしょく",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "退職する",
+      "backtext": "Retire（たいしょくする）",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "かいしゃ を やめる　は　たいしょく　おなじ　いみ　です",
+      "backtext": "Leaving the company is the same as retirement",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "婚約する",
+      "backtext": "Engagement こんやくする",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "結婚",
+      "backtext": "To get married, けっこんする",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "子供ができる",
+      "backtext": "To become pregnant　こどもができる",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "子供が生まれるん",
+      "backtext": "To have a baby こどもがうまれる",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "離婚する",
+      "backtext": "To divorce りこんする",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "死ぬ",
+      "backtext": "To die しぬ",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "ペンシルベニア州",
+      "backtext": "Pennsylvania State （州＝しゅう）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "_州 の　_市　で　うまれました",
+      "backtext": "(I) was born in _ state in _ city （市＝し）、（州＝しゅう）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "私は子どもの時。。。",
+      "backtext": "When I was a kid... わたし　は　こども　とき",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "街",
+      "backtext": "City まち",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "引っ越しました",
+      "backtext": "Moved (like homes)　ひっこしました",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "毎朝　おきってよ　に　行きます",
+      "backtext": "I'm going to get up every morning",
+      "source": "book2",
+      "page": 60
+    },
+    {
+      "kanji": true,
+      "fronttext": "毎朝　おきってよ　に　行きます",
+      "backtext": "I'm going to get up every morning",
+      "source": "book2",
+      "page": 60
+    },
+    {
+      "kanji": false,
+      "fronttext": "スーツ を　きがえて に　いきました",
+      "backtext": "I went to go change my suit",
+      "source": "book2",
+      "page": 60
+    },
+    {
+      "kanji": true,
+      "fronttext": "行く　の　前に　シャワー　を　あびて",
+      "backtext": "Before you go, take a shower",
+      "source": "book2",
+      "page": 60
+    },
+    {
+      "kanji": false,
+      "fronttext": "カラオケ　で　うた　うぃ　うたいます",
+      "backtext": "Sing a song at Karaoke",
+      "source": "book2",
+      "page": 60
+    },
+    {
+      "kanji": true,
+      "fronttext": "いざかや　で　ニュース　を　見た",
+      "backtext": "I saw the news at a tavern (見た＝みた)",
+      "source": "book2",
+      "page": 60
+    },
+    {
+      "kanji": false,
+      "fronttext": "ねむ　の　まえ　に　は　を　みがくって　かお　を　おらうて　の　ほう　が　いい　です",
+      "backtext": "It's better to brush your teeth and wash your face before you sleep (Note: 1st Ha is teeth here, 歯＝は)",
+      "source": "book2",
+      "page": 60
+    },
+    {
+      "kanji": false,
+      "fronttext": "カフェ　に　よります",
+      "backtext": "To stop off at a cafe (stop off like take a break)",
+      "source": "book2",
+      "page": 60
+    },
+    {
+      "kanji": false,
+      "fronttext": "しごと　を　はじめます",
+      "backtext": "Start doing work",
+      "source": "book2",
+      "page": 60
+    },
+    {
+      "kanji": false,
+      "fronttext": "いつ　せんたく　を　するん　です　か",
+      "backtext": "When's a good time to do the laundry? (implying, when's good to do it by ん?)",
+      "source": "book2",
+      "page": 61
+    },
+    {
+      "kanji": false,
+      "fronttext": "せんたく",
+      "backtext": "laundry",
+      "source": "book2",
+      "page": 61
+    },
+    {
+      "kanji": false,
+      "fronttext": "おしゃべりをする",
+      "backtext": "To talk/chat",
+      "source": "book2",
+      "page": 61
+    },
+    {
+      "kanji": false,
+      "fronttext": "バーベキュー　の あと　で　かたづける　が　ほう　いい　です, さ　しましょうか",
+      "backtext": "Better to clean up after the BBQ, shall we?",
+      "source": "book2",
+      "page": 61
+    },
+    {
+      "kanji": true,
+      "fronttext": "車　で　ドライブ　を　しましょう",
+      "backtext": "Let's drive (by means of car)",
+      "source": "book2",
+      "page": 61
+    },
+    {
+      "kanji": false,
+      "fronttext": "のんびりする",
+      "backtext": "To relax",
+      "source": "book2",
+      "page": 61
+    },
+    {
+      "kanji": false,
+      "fronttext": "しゅっちょう　です　か",
+      "backtext": "Going on a business trip? (lit. is it a business trip, but assume you're talking to someone about them preparing)",
+      "source": "book2",
+      "page": 62
+    },
+    {
+      "kanji": true,
+      "fronttext": "たいへんですね。気を付けて",
+      "backtext": "That must be hard, take care! (気＝き）",
+      "source": "book2",
+      "page": 62
+    },
+    {
+      "kanji": true,
+      "fronttext": "毎月",
+      "backtext": "Every month (毎月＝まいつき)",
+      "source": "book2",
+      "page": 62
+    },
+    {
+      "kanji": false,
+      "fronttext": "りょりをします",
+      "backtext": "To cook",
+      "source": "book2",
+      "page": 62
+    },
+    {
+      "kanji": false,
+      "fronttext": "がいしょく",
+      "backtext": "Eating out",
+      "source": "book2",
+      "page": 62
+    },
+    {
+      "kanji": true,
+      "fronttext": "ほとんど　毎日　がいしょくか　コンビニ　の　べんとうです",
+      "backtext": "Almost eery day it's eating out or conveniece store bentos",
+      "source": "book2",
+      "page": 62
+    },
+    {
+      "kanji": false,
+      "fronttext": "",
+      "backtext": "",
+      "source": "book2",
+      "page": 62
+    }
+]
