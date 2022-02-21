@@ -1,5 +1,8 @@
 # flashcards
 
+Site to use for studing Japanese while learning with Japanese for Busy People. 
+These are my personal cards, but if they're helpful to you then cool. Enjoy.
+
 ## Project setup
 ```
 npm install
@@ -19,6 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
