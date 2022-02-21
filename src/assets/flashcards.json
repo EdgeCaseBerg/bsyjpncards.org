@@ -3455,5 +3455,642 @@
       "backtext": "Mealtime　(しょくじ)",
       "source": "book2",
       "page": 81
+    },
+    {
+      "kanji":false,
+      "fronttext":"かおいろが　よく　ありませんね",
+      "backtext": "You look pale (lit. Your complexion is negative)",
+      "source": "book2",
+      "page": 83
+    },
+    {
+      "kanji":false,
+      "fronttext":"かおいろ",
+      "backtext": "Complexion",
+      "source": "book2",
+      "page": 83
+    },
+    {
+      "kanji":false,
+      "fronttext":"じつは",
+      "backtext": "Actually...",
+      "source": "book2",
+      "page": 83
+    },
+    {
+      "kanji":true,
+      "fronttext":"薬を買ってきて飲んだんですが。。。",
+      "backtext": "I bought medicine and came back but... (implying it didn't work/hasn't worked yet) （薬＝くすり、買って＝かって、飲んだ＝のんだ）",
+      "source": "book2",
+      "page": 83
+    },
+    {
+      "kanji":true,
+      "fronttext":"お先に",
+      "backtext": "Ahead of (polite form) （おさきに）",
+      "source": "book2",
+      "page": 83
+    },
+    {
+      "kanji":true,
+      "fronttext":"お大事に",
+      "backtext": "Take care (of yourself/an ill person)",
+      "source": "book2",
+      "page": 83
+    },
+    {
+      "kanji":false,
+      "fronttext":"むりを　しない　ほうが　いいですよ",
+      "backtext": "You shouldn't overdo it/force yourself",
+      "source": "book2",
+      "page": 83
+    },
+    {
+      "kanji":false,
+      "fronttext":"はやく　おきました",
+      "backtext": "I got up early (はやく　is the adverb form of はやい)",
+      "source": "book2",
+      "page": 84
+    },
+    {
+      "kanji":true,
+      "fronttext":"きれいに　書いてください",
+      "backtext": "Please write neatly (書いて＝かいて), きれいに is the adverb form of きれい. It gains に because it's a な adjective",
+      "source": "book2",
+      "page": 84
+    },
+    {
+      "kanji":false,
+      "fronttext":"しずかに　あるきます",
+      "backtext": "Walk quietly",
+      "source": "book2",
+      "page": 84
+    },
+    {
+      "kanji":true,
+      "fronttext":"小さく　書いて",
+      "backtext": "Write smaller (小さ＝ちいさ、書いて＝かいて)",
+      "source": "book2",
+      "page": 84
+    },
+    {
+      "kanji":false,
+      "fronttext":"安く",
+      "backtext": "Cheaply, adverb of cheap （やすく）",
+      "source": "book2",
+      "page": 84
+    },
+    {
+      "kanji":false,
+      "fronttext":"おそいに　おきます",
+      "backtext": "Wake up slowly/put on slowly (depending on kanji/context)",
+      "source": "book2",
+      "page": 84
+    },
+    {
+      "kanji":false,
+      "fronttext":"じょうずに　うたいます",
+      "backtext": "Sing well",
+      "source": "book2",
+      "page": 84
+    },
+    {
+      "kanji":false,
+      "fronttext":"カタログ　を　もらってきて、せつめいします",
+      "backtext": "Go get the catalog and then explain it",
+      "source": "book2",
+      "page": 84
+    },
+    {
+      "kanji":true,
+      "fronttext":"本　を　かりてきて　読みした",
+      "backtext": "I went and rented a book and read it (and came back) (本＝ほん、読み＝よみ）",
+      "source": "book2",
+      "page": 84
+    },
+    {
+      "kanji":false,
+      "fronttext":"としょかん　で　しらべてきて、みんな　に　おしえます",
+      "backtext": "I went and investigated (and came back), I'll teach everyone",
+      "source": "book2",
+      "page": 84
+    },
+    {
+      "kanji":false,
+      "fronttext":"すこし　やすんだ　ほう　が　いい　です　よ",
+      "backtext": "You should sleep a little",
+      "source": "book2",
+      "page": 86
+    },
+    {
+      "kanji":false,
+      "fronttext":"のど　が　いったいか、じゃあ タバコ　を　すわない　ほう　が　いい　です　よ",
+      "backtext": "Your throat hurts? You shouldn't smoke tobacco then.",
+      "source": "book2",
+      "page": 86
+    },
+    {
+      "kanji":true,
+      "fronttext":"あした　は　しごとか、じゃあ、おさけ　を　飲まない　ほう　が　いい　です　よ",
+      "backtext": "Work tomorrow? Then you shouldn't be drinking",
+      "source": "book2",
+      "page": 86
+    },
+    {
+      "kanji":false,
+      "fronttext":"おとす",
+      "backtext": "drop, lose",
+      "source": "book2",
+      "page": 86
+    },
+    {
+      "kanji":false,
+      "fronttext":"さいふ　を　おとしたんです",
+      "backtext": "I lost my wallet",
+      "source": "book2",
+      "page": 86
+    },
+    {
+      "kanji":false,
+      "fronttext":"けんこうしんだん",
+      "backtext": "Health checkup",
+      "source": "book2",
+      "page": 86
+    },
+    {
+      "kanji":false,
+      "fronttext":"カードがいしゃ",
+      "backtext": "Credit card company",
+      "source": "book2",
+      "page": 86
+    },
+    {
+      "kanji":false,
+      "fronttext":"また　のんでいません",
+      "backtext": "(I) haven't drunk it yet",
+      "source": "book2",
+      "page": 86
+    },
+    {
+      "kanji":false,
+      "fronttext":"また　きいていませえ",
+      "backtext": "(I) haven't heard it yet",
+      "source": "book2",
+      "page": 86
+    },
+    {
+      "kanji":false,
+      "fronttext":"へんじ",
+      "backtext": "Response, answer",
+      "source": "book2",
+      "page": 86
+    },
+    {
+      "kanji":false,
+      "fronttext":"また　メールのへんじ　を　だしていないんです",
+      "backtext": "I haven't replied to the email yet",
+      "source": "book2",
+      "page": 88
+    },
+    {
+      "kanji":true,
+      "fronttext":"また　しりょう　を　読んで　いないん　です",
+      "backtext": "I haven't read the documents yet （読んで＝よんで）",
+      "source": "book2",
+      "page": 88
+    },
+    {
+      "kanji":false,
+      "fronttext":"できる (R2)",
+      "backtext": "To get done",
+      "source": "book2",
+      "page": 88
+    },
+    {
+      "kanji":false,
+      "fronttext":"わるくなかったんです",
+      "backtext": "(It) wasn't bad (offered as an explanation)",
+      "source": "book2",
+      "page": 88
+    },
+    {
+      "kanji":false,
+      "fronttext":"かぜ　だったんです",
+      "backtext": "It was a cold (offered as an explanation)",
+      "source": "book2",
+      "page": 88
+    },
+    {
+      "kanji":false,
+      "fronttext":"かぜ　では　なかったんです",
+      "backtext": "It wasn't a cold (offered as an explanation)",
+      "source": "book2",
+      "page": 88
+    },
+    {
+      "kanji":false,
+      "fronttext":"て　に　けが　を　したんです",
+      "backtext": "(My) hand is injured",
+      "source": "book2",
+      "page": 89
+    },
+    {
+      "kanji":false,
+      "fronttext":"はなみず　が　でます",
+      "backtext": "(my) nose is running",
+      "source": "book2",
+      "page": 89
+    },
+    {
+      "kanji":false,
+      "fronttext":"ちょうし",
+      "backtext": "Condition",
+      "source": "book2",
+      "page": 89
+    },
+    {
+      "kanji":false,
+      "fronttext":"アレルギー",
+      "backtext": "Allergy",
+      "source": "book2",
+      "page": 89
+    },
+    {
+      "kanji":false,
+      "fronttext":"ふつかよい",
+      "backtext": "Hangover",
+      "source": "book2",
+      "page": 89
+    },
+    {
+      "kanji":false,
+      "fronttext":"ねぶそく",
+      "backtext": "Sleeplessness",
+      "source": "book2",
+      "page": 89
+    },
+    {
+      "kanji":false,
+      "fronttext":"じさぼけ",
+      "backtext": "Jet lag",
+      "source": "book2",
+      "page": 89
+    },
+    {
+      "kanji":false,
+      "fronttext":"かぜ　を　ひいたんでした",
+      "backtext": "I caught a cold",
+      "source": "book2",
+      "page": 89
+    },
+    {
+      "kanji":false,
+      "fronttext":"ねむいん　です",
+      "backtext": "I'm sleepy",
+      "source": "book2",
+      "page": 89
+    },
+    {
+      "kanji":false,
+      "fronttext":"あくび が　でました",
+      "backtext": "I yawned (lit. yawn came out)",
+      "source": "book2",
+      "page": 89
+    },
+    {
+      "kanji":true,
+      "fronttext":"日本には　かふんしょう　の　人が　おおいんですよ",
+      "backtext": "A lot of people in Japan have pollen allergies (lit hay fever) （日本＝にほん、人＝ひと）",
+      "source": "book2",
+      "page": 90
+    },
+    {
+      "kanji":false,
+      "fronttext":"おかげさまで",
+      "backtext": "Thanks to you",
+      "source": "book2",
+      "page": 90
+    },
+    {
+      "kanji":false,
+      "fronttext":"びょういん　に　いるんです",
+      "backtext": "I'm at the hospital",
+      "source": "book2",
+      "page": 90
+    },
+    {
+      "kanji":false,
+      "fronttext": "みんなさん　に　はやく　しらせた　ほうが　いいですよ",
+      "backtext": "(You) should inform everyone quickly",
+      "source": "book2",
+      "page": 90
+    },
+    {
+      "kanji":false,
+      "fronttext":"そうべつかい",
+      "backtext": "Farewell party",
+      "source": "book2",
+      "page": 90
+    },
+    {
+      "kanji":false,
+      "fronttext":"しんねんかい",
+      "backtext": "New years party",
+      "source": "book2",
+      "page": 90
+    },
+    {
+      "kanji":false,
+      "fronttext":"はなみ",
+      "backtext": "Flower viewing part (Cherry blossoms)",
+      "source": "book2",
+      "page": 90
+    },
+    {
+      "kanji":false,
+      "fronttext":"きめる (R2)",
+      "backtext": "To decide",
+      "source": "book2",
+      "page": 90
+    },
+    {
+      "kanji":false,
+      "fronttext":"しらせる　(R2)",
+      "backtext": "To inform",
+      "source": "book2",
+      "page": 90
+    },
+    {
+      "kanji":false,
+      "fronttext":"まだ　なん　です",
+      "backtext": "Not yet (in reply to a question with a verb, なん takes the place of the asked verb)",
+      "source": "book2",
+      "page": 92
+    },
+    {
+      "kanji":false,
+      "fronttext":"れんらくする",
+      "backtext": "Get in touch with/contact",
+      "source": "book2",
+      "page": 92
+    },
+    {
+      "kanji":false,
+      "fronttext":"メンテナンス　に　れんらくしましたか",
+      "backtext": "Did you contact Maintenance?",
+      "source": "book2",
+      "page": 92
+    },
+    {
+      "kanji":false,
+      "fronttext": "はやく　でんわした　ほうが　いいですね",
+      "backtext": "You should call (them) quickly",
+      "source": "book2",
+      "page": 92
+    },
+    {
+      "kanji":true,
+      "fronttext":"私は　午後の　会議に　でるんですが、まだ　じゅんびが　できていないんです",
+      "backtext": "I'm attending this afternoon's meeting, but I haven't finished preparing for it yet (私＝わたし、午後＝ごご、会議＝かいぎ)",
+      "source": "book2",
+      "page": 92
+    },
+    {
+      "kanji":true,
+      "fronttext":"帰りに　何か　買ってきましょうか",
+      "backtext": "Should I buy you something on the way back? (帰り＝かえり、何＝なに、買って＝かって)",
+      "source": "book2",
+      "page": 92
+    },
+    {
+      "kanji":false,
+      "fronttext":"しんぱい　（な）",
+      "backtext": "Worried",
+      "source": "book2",
+      "page": 93
+    },
+    {
+      "kanji":false,
+      "fronttext":"たのしみ",
+      "backtext": "delight, looking forward to",
+      "source": "book2",
+      "page": 93
+    },
+    {
+      "kanji":false,
+      "fronttext":"つよい",
+      "backtext": "strong",
+      "source": "book2",
+      "page": 93
+    },
+    {
+      "kanji":false,
+      "fronttext":"かぐつきの",
+      "backtext": "pre-Furnished (つきの is a suffix for with/including, かぐ is furnishing)",
+      "source": "book2",
+      "page": 93
+    },
+    {
+      "kanji":false,
+      "fronttext":"ふく",
+      "backtext": "clothes",
+      "source": "book2",
+      "page": 93
+    },
+    {
+      "kanji":true,
+      "fronttext":"薬",
+      "backtext": "Medicine （くすり）",
+      "source": "book2",
+      "page": 94
+    },
+    {
+      "kanji":true,
+      "fronttext":"買う",
+      "backtext": "to buy　（かう）",
+      "source": "book2",
+      "page": 94
+    },
+    {
+      "kanji":true,
+      "fronttext":"飲む",
+      "backtext": "To drink　（のむ）",
+      "source": "book2",
+      "page": 94
+    },
+    {
+      "kanji":true,
+      "fronttext":"休む",
+      "backtext": "Rest　（やすむ）",
+      "source": "book2",
+      "page": 94
+    },
+    {
+      "kanji":true,
+      "fronttext":"昼休み　（ひるやすみ）",
+      "backtext": "Lunch break",
+      "source": "book2",
+      "page": 94
+    },
+    {
+      "kanji":true,
+      "fronttext":"会う",
+      "backtext": "To meet, gather　（あう）",
+      "source": "book2",
+      "page": 94
+    },
+    {
+      "kanji":true,
+      "fronttext":"飲み会",
+      "backtext": "Drinking party　（のみかい）",
+      "source": "book2",
+      "page": 94
+    },
+    {
+      "kanji":true,
+      "fronttext":"食事会",
+      "backtext": "Eating party　（しょくじかい）",
+      "source": "book2",
+      "page": 94
+    },
+    {
+      "kanji":true,
+      "fronttext":"会議",
+      "backtext": "Meeting　（あう）",
+      "source": "book2",
+      "page": 95
+    },
+    {
+      "kanji":true,
+      "fronttext":"書く",
+      "backtext": "To write　（かく）",
+      "source": "book2",
+      "page": 95
+    },
+    {
+      "kanji":true,
+      "fronttext":"読む",
+      "backtext": "To read (よむ）",
+      "source": "book2",
+      "page": 95
+    },
+    {
+      "kanji":true,
+      "fronttext":"国",
+      "backtext": "Country (くに）",
+      "source": "book2",
+      "page": 95
+    },
+    {
+      "kanji":true,
+      "fronttext":"中国",
+      "backtext": "China （ちゅうごく）",
+      "source": "book2",
+      "page": 95
+    },
+    {
+      "kanji":true,
+      "fronttext":"先",
+      "backtext": "Ahead (さき)",
+      "source": "book2",
+      "page": 95
+    },
+    {
+      "kanji":true,
+      "fronttext":"先週",
+      "backtext": "Last week せんしゅう",
+      "source": "book2",
+      "page": 95
+    },
+    {
+      "kanji":true,
+      "fronttext":"先月",
+      "backtext": "Last month (せんげつ)",
+      "source": "book2",
+      "page": 95
+    },
+    {
+      "kanji":true,
+      "fronttext": "毎日おべんとうをもってくるんですか",
+      "backtext": "Do you bring your own lunch everyday? (毎日＝まいにち)",
+      "source": "book2",
+      "page":96
+    },
+    {
+      "kanji":false,
+      "fronttext":"ひさしぶる",
+      "backtext": "It's been a long time",
+      "source": "book2",
+      "page": 100
+    },
+    {
+      "kanji":false,
+      "fronttext":"ごぶさたしています",
+      "backtext": "I have not been staying in touch (used towards superiors or in letters)",
+      "source": "book2",
+      "page": 100
+    },
+    {
+      "kanji":false,
+      "fronttext":"なつかしい",
+      "backtext": "nostalgic",
+      "source": "book2",
+      "page": 101
+    },
+    {
+      "kanji":true,
+      "fronttext":"今日は　ひまですが、あしたからは　いそがしいです",
+      "backtext": "Today I'm free, but tomorrow I'm not at all (は is used twice to express contrast)　（今日＝きょう）",
+      "source": "book2",
+      "page": 101
+    },
+    {
+      "kanji":false,
+      "fronttext":"学生のとき",
+      "backtext": "When I was a student... （学生＝がくせい）",
+      "source": "book2",
+      "page": 106
+    },
+    {
+      "kanji":false,
+      "fronttext":"さむいとき",
+      "backtext": "When it's cold",
+      "source": "book2",
+      "page": 106
+    },
+    {
+      "kanji":false,
+      "fronttext":"ひまなとき",
+      "backtext": "when I have free time",
+      "source": "book2",
+      "page": 106
+    },
+    {
+      "kanji":true,
+      "fronttext":"私は　ひまな　とき、よく　えいが　を　見に行きました",
+      "backtext": "When I have free time I go see movies （私＝わたし、見＝み、行＝い）",
+      "source": "book2",
+      "page": 106
+    },
+    {
+      "kanji":false,
+      "fronttext":"あかんぼう の　とき",
+      "backtext": "When I was a baby",
+      "source": "book2",
+      "page": 106
+    },
+    {
+      "kanji":false,
+      "fronttext":"あたま が いたい　とき、なにも　したくないです",
+      "backtext": "When my head hurts, I don't want to do anything",
+      "source": "book2",
+      "page": 106
+    },
+    {
+      "kanji":false,
+      "fronttext":"いえじゅう",
+      "backtext": "The entire house, throughout the house",
+      "source": "book2",
+      "page": 106
     }
 ]
