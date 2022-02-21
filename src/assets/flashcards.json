@@ -153,7 +153,7 @@
     },
     {
       "kanji": false,
-      "fronttext": "プロジェクと",
+      "fronttext": "プロジェクト",
       "backtext": "Project",
       "source": "book2",
       "page": 5
@@ -224,7 +224,7 @@
     {
       "kanji": false,
       "fronttext": "サッカー　と　テニス　と　ゴルフ　の中で　どれが　いちばん　すきですか",
-      "backtext": "Which among soccer, tennis, and gold do you like best?",
+      "backtext": "Which among soccer, tennis, and golf do you like best?",
       "source": "book2",
       "page": 8
     },
@@ -2569,9 +2569,891 @@
     },
     {
       "kanji": false,
-      "fronttext": "",
-      "backtext": "",
+      "fronttext": "ぶちょう",
+      "backtext": "Department Manager",
       "source": "book2",
-      "page": 62
+      "page": 63
+    },
+    {
+      "kanji": false,
+      "fronttext": "あれっ",
+      "backtext": "what (like eh)",
+      "source": "book2",
+      "page": 63
+    },
+    {
+      "kanji": false,
+      "fronttext": "たべほうだい",
+      "backtext": "All you can eat",
+      "source": "book2",
+      "page": 63
+    },
+    {
+      "kanji": false,
+      "fronttext": "ちがいますよ",
+      "backtext": "No, not that/that's wrong",
+      "source": "book2",
+      "page": 63
+    },
+    {
+      "kanji": false,
+      "fronttext": "がんぎょうをする",
+      "backtext": "Do overtime work",
+      "source": "book2",
+      "page": 63
+    },
+    {
+      "kanji": false,
+      "fronttext": "今日は　がんぎょう　を　しないん　です　か",
+      "backtext": "You aren't working overtime today? (今日＝きょう)",
+      "source": "book2",
+      "page": 63
+    },
+    {
+      "kanji": false,
+      "fronttext": "ダイエット　です　か",
+      "backtext": "Are you on a diet? (lit. it's a diet?)",
+      "source": "book2",
+      "page": 63
+    },
+    {
+      "kanji": false,
+      "fronttext": "やまのぼう",
+      "backtext": "Mountain climbing",
+      "source": "book2",
+      "page": 64
+    },
+    {
+      "kanji": false,
+      "fronttext": "さどう",
+      "backtext": "Tea Ceremony",
+      "source": "book2",
+      "page": 64
+    },
+    {
+      "kanji": false,
+      "fronttext": "なにか　うんどう　を　していますあか",
+      "backtext": "What exercises do you do?",
+      "source": "book2",
+      "page": 64
+    },
+    {
+      "kanji": true,
+      "fronttext": "週に　二回　ジョギング　を　しています",
+      "backtext": "Twice a week I go jogging",
+      "source": "book2",
+      "page": 64
+    },
+    {
+      "kanji": false,
+      "fronttext": "スポーツクラブ　で　テニス　を　します",
+      "backtext": "I play tennis at a sports club",
+      "source": "book2",
+      "page": 65
+    },
+    {
+      "kanji": true,
+      "fronttext": "こうえん　に　トレーニング　に　行きます",
+      "backtext": "I go to a park to train （行きます＝いきます）",
+      "source": "book2",
+      "page": 65
+    },
+    {
+      "kanji": false,
+      "fronttext": "こうえんで　ジョギング　を　します",
+      "backtext": "I jog in the park",
+      "source": "book2",
+      "page": 65
+    },
+    {
+      "kanji": false,
+      "fronttext": "青山通り　を　はしります",
+      "backtext": "I run along Aoyama Avenue",
+      "source": "book2",
+      "page": 65
+    },
+    {
+      "kanji": false,
+      "fronttext": "うちの　ちかく　を　あるきます",
+      "backtext": "I walk near my house",
+      "source": "book2",
+      "page": 65
+    },
+    {
+      "kanji": false,
+      "fronttext": "じてんしゃ　で　まち　を　まわります",
+      "backtext": "I travel around town on bicycle",
+      "source": "book2",
+      "page": 65
+    },
+    {
+      "kanji": true,
+      "fronttext": "山に　のぼります",
+      "backtext": "I climb mountains",
+      "source": "book2",
+      "page": 65
+    },
+    {
+      "kanji": false,
+      "fronttext": "ウエイトトレーニング",
+      "backtext": "Weight training",
+      "source": "book2",
+      "page": 66
+    },
+    {
+      "kanji": false,
+      "fronttext": "コニュニティーセンター",
+      "backtext": "Community center",
+      "source": "book2",
+      "page": 66
+    },
+    {
+      "kanji": true,
+      "fronttext": "私も　いけばな　を　ならいたいんですが、どこで　ならっているんですか",
+      "backtext": "I want to learn Ikebana too, where do you take lessons? (私＝わたし)",
+      "source": "book2",
+      "page": 66
+    },
+    {
+      "kanji": true,
+      "fronttext": "毎",
+      "backtext": "Every （まい）",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "毎週",
+      "backtext": "Every weeek (まいしゅう)",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "毎年",
+      "backtext": "Every year (まいとし)",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "朝",
+      "backtext": "Morning (あさ)",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "朝食",
+      "backtext": "Breakfast (ちょうしょく)",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "時",
+      "backtext": "Time (とき)",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "四時",
+      "backtext": "4 o'clock （よじ）",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "九時",
+      "backtext": "9 o'clock (くじ)",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "間",
+      "backtext": "Between/interval (あいだ)",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "時間",
+      "backtext": "Time (じかん)",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "一週間",
+      "backtext": "One week （いっしゅうかん）",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "間に合う",
+      "backtext": "In time (まにあう)",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "四時半",
+      "backtext": "4:30 （よじはん）",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "半年",
+      "backtext": "Half a year (はんとし)",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji": true,
+      "fronttext": "半分",
+      "backtext": "Half (of something) （はんぶん）",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji":true,
+      "fronttext":"前半",
+      "backtext": "First half (ぜんはん)",
+      "source": "book2",
+      "page": 67
+    },
+    {
+      "kanji":true,
+      "fronttext":"日",
+      "backtext": "Sun (ひ)",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext":"毎日",
+      "backtext": "Every day (まいあさ)",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext":"今日",
+      "backtext": "Today (きょう)",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext": "日",
+      "backtext": "Sun (ひ)",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext":"日曜日",
+      "backtext": "Sunday (にちようび)",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext":"毎月",
+      "backtext": "Every month (まいつき)",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext":"一月",
+      "backtext": "January (いちがつ)",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext":"月曜日",
+      "backtext": "Monday (げつようび)",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext":"土田",
+      "backtext": "Tsuchida (name?)（つちだ）",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext":"＊土曜日",
+      "backtext": "* Day （どようび）",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext":"回る",
+      "backtext": "Turn/time （まわる）",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext":"一回",
+      "backtext": "One time（いっかい）",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext":"部",
+      "backtext": "Section/part ぶ",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext":"部屋",
+      "backtext": "Room (へや)",
+      "source": "book2",
+      "page": 68
+    },
+    {
+      "kanji":true,
+      "fronttext":"もう　11時　に　なりますよ、そろそろ　帰りませんか",
+      "backtext": "It's already 11pm, Shouldn't you go home soon? (時＝じ)　（帰り＝かえり）",
+      "source": "book2",
+      "page": 69
+    },
+    {
+      "kanji":true,
+      "fronttext":"ざんねん　ですが　あした　は　用事が　あるんです",
+      "backtext": "It's too bad, but tomorrow I have things to do",
+      "source": "book2",
+      "page": 69
+    },
+    {
+      "kanji":false,
+      "fronttext":"に　なる",
+      "backtext": "become",
+      "source": "book2",
+      "page": 70
+    },
+    {
+      "kanji":false,
+      "fronttext":"ああ、つかれた　(to oneself)",
+      "backtext": "I'm tired",
+      "source": "book2",
+      "page": 70
+    },
+    {
+      "kanji":false,
+      "fronttext":"つかれる　（Regular II）",
+      "backtext": "To get tired",
+      "source": "book2",
+      "page": 70
+    },
+    {
+      "kanji": true,
+      "fronttext":"人たち",
+      "backtext": "People (ひとたち)",
+      "source": "book2",
+      "page": 70
+    },
+    {
+      "kanji":true,
+      "fronttext":"用事",
+      "backtext": "Things to do, errands",
+      "source": "book2",
+      "page": 70
+    },
+    {
+      "kanji":false,
+      "fronttext":"きかい",
+      "backtext": "chance, opportunity",
+      "source": "book2",
+      "page": 70
+    },
+    {
+      "kanji":false,
+      "fronttext":"あった (Regular 1)",
+      "backtext": "Met　(past form of to meet)",
+      "source": "book2",
+      "page": 71
+    },
+    {
+      "kanji":false,
+      "fronttext":"かいた (Regular 1)",
+      "backtext": "Wrote (past form to to write)",
+      "source": "book2",
+      "page": 71
+    },
+    {
+      "kanji":false,
+      "fronttext":"およいだ (Regular 1)",
+      "backtext": "Swam (past form of to swim))",
+      "source": "book2",
+      "page": 71
+    },
+    {
+      "kanji":false,
+      "fronttext":"けした (Regular 1)",
+      "backtext": "Turned off (past form of to turn off)",
+      "source": "book2",
+      "page": 71
+    },
+    {
+      "kanji":false,
+      "fronttext":"まった (Regular 1)",
+      "backtext": "Waited (past form of to wait)",
+      "source": "book2",
+      "page": 71
+    },
+    {
+      "kanji":false,
+      "fronttext":"しんだ (Regular 1)",
+      "backtext": "Died (past form of to die)",
+      "source": "book2",
+      "page": 71
+    },
+    {
+      "kanji":false,
+      "fronttext":"よんだ (Regular 1)",
+      "backtext": "Called (past form of to call)",
+      "source": "book2",
+      "page": 71
+    },
+    {
+      "kanji":false,
+      "fronttext":"のんだ (Regular 1)",
+      "backtext": "Drank (past form of to drank)",
+      "source": "book2",
+      "page": 71
+    },
+    {
+      "kanji":true,
+      "fronttext":"帰った (Regular 1)",
+      "backtext": "Returned (past form of to return)",
+      "source": "book2",
+      "page": 70
+    },
+    {
+      "kanji":true,
+      "fronttext":"食べた (Regular II)",
+      "backtext": "Ate (Past form of eat)",
+      "source": "book2",
+      "page": 70
+    },
+    {
+      "kanji":false,
+      "fronttext":"あけた (Regular II)",
+      "backtext": "Opened (Past form of to open)",
+      "source": "book2",
+      "page": 70
+    },
+    {
+      "kanji":false,
+      "fronttext":"見た　(Regular II)",
+      "backtext": "Saw (Past form of to see)",
+      "source": "book2",
+      "page": 70
+    },
+    {
+      "kanji":false,
+      "fronttext":"おりた",
+      "backtext": "was (humble past form of be)",
+      "source": "book2",
+      "page": 70
+    },
+    {
+      "kanji":true,
+      "fronttext":"来た (Irregular)",
+      "backtext": "Came (past form of come)",
+      "source": "book2",
+      "page": 70
+    },
+    {
+      "kanji":false,
+      "fronttext":"した (Irregular)",
+      "backtext": "Did (past form of to do)",
+      "source": "book2",
+      "page": 70
+    },
+    {
+      "kanji":false,
+      "fronttext":"のぼらなかった　(Regular I)",
+      "backtext": "Didn't board, past negative of のぼります",
+      "source": "book2",
+      "page": 72
+    },
+    {
+      "kanji":false,
+      "fronttext":"来なかった",
+      "backtext": "Past negative of to come こなかった",
+      "source": "book2",
+      "page": 72
+    },
+    {
+      "kanji":false,
+      "fronttext":"しなかった",
+      "backtext": "Past negative of to do",
+      "source": "book2",
+      "page": 72
+    },
+    {
+      "kanji":true,
+      "fronttext":"六本木の　おんせん　に　行った　ことが　あります",
+      "backtext": "I have been to the hot springs of Roppongi (六本木＝ろっぽんぎ)",
+      "source": "book2",
+      "page": 73
+    },
+    {
+      "kanji":false,
+      "fronttext":"すし　を　食べた　ことが　ありますか",
+      "backtext": "Have you ever eaten sushi before?",
+      "source": "book2",
+      "page": 73
+    },
+    {
+      "kanji":false,
+      "fronttext":"しんかんせん　に　のった　ことが　ありますか",
+      "backtext": "Have you ever ridden the Shinkansen?",
+      "source": "book2",
+      "page": 73
+    },
+    {
+      "kanji":false,
+      "fronttext":"だいぶつ　を　みた　ことば　ありますか",
+      "backtext": "Have you ever seen the great Buddha statue?",
+      "source": "book2",
+      "page": 74
+    },
+    {
+      "kanji":false,
+      "fronttext":"なべりょうり",
+      "backtext": "Meal cooked in a pot on a table",
+      "source": "book2",
+      "page": 74
+    },
+    {
+      "kanji":false,
+      "fronttext":"いつ　のぼったん　です　か",
+      "backtext": "when did you climb it?",
+      "source": "book2",
+      "page": 75
+    },
+    {
+      "kanji":false,
+      "fronttext":"リラックスする",
+      "backtext": "To relax",
+      "source": "book2",
+      "page": 75
+    },
+    {
+      "kanji":true,
+      "fronttext":"三時　ちょうど　です",
+      "backtext": "It's 3 exactly　（さんじ　ちょうど　です）",
+      "source": "book2",
+      "page": 76
+    },
+    {
+      "kanji":true,
+      "fronttext":"二時　五分　前　です",
+      "backtext": "It's five minutes to two　（にじ　ごふん　まえ　です）",
+      "source": "book2",
+      "page": 76
+    },
+    {
+      "kanji":true,
+      "fronttext":"あと　五分で　二じ　です",
+      "backtext": "In five minutes it will be two o'clock　（あと　ごふんで　にじ　です）",
+      "source": "book2",
+      "page": 76
+    },
+    {
+      "kanji":true,
+      "fronttext":"もうすぐ　二時に　なります",
+      "backtext": "It will be two o'clock in a few minutes (もうすぐ　にじに　なります)",
+      "source": "book2",
+      "page": 76
+    },
+    {
+      "kanji":true,
+      "fronttext":"四時を　十分　すぎました",
+      "backtext": "It's 10 minutes past four (よじを　じゅうぶん　すぎました)",
+      "source": "book2",
+      "page": 76
+    },
+    {
+      "kanji":false,
+      "fronttext":"やくそく",
+      "backtext": "Promise",
+      "source": "book2",
+      "page": 77
+    },
+    {
+      "kanji":false,
+      "fronttext":"よでい",
+      "backtext": "Plan, Schedule",
+      "source": "book2",
+      "page": 77
+    },
+    {
+      "kanji":false,
+      "fronttext":"そうだんする",
+      "backtext": "Consult",
+      "source": "book2",
+      "page": 77
+    },
+    {
+      "kanji":false,
+      "fronttext":"そうだん",
+      "backtext": "Consulation",
+      "source": "book2",
+      "page": 77
+    },
+    {
+      "kanji":false,
+      "fronttext":"もどる",
+      "backtext": "Go/come back",
+      "source": "book2",
+      "page": 77
+    },
+    {
+      "kanji":false,
+      "fronttext":"ごぜんちゅう",
+      "backtext": "During the morning (～ちゅう　is a suffic for 'during')",
+      "source": "book2",
+      "page": 77
+    },
+    {
+      "kanji":false,
+      "fronttext":"いちど　行ってみたかったんです",
+      "backtext": "I've been wanting to go see (it) at least once (行って＝いって)",
+      "source": "book2",
+      "page": 78
+    },
+    {
+      "kanji":true,
+      "fronttext":"火曜日の　ばん、ともだちと　サッカーの　しあい　を　見に　いくんですか、いっしょに　いかがですか",
+      "backtext": "Friday night I'm going to see a soccer game with some friends. Would you like to come along? (火曜日＝かようび、見＝み)",
+      "source": "book2",
+      "page": 77
+    },
+    {
+      "kanji":false,
+      "fronttext":"さんかする",
+      "backtext": "To participate (さんか is parcipitation)",
+      "source": "book2",
+      "page": 79
+    },
+    {
+      "kanji":false,
+      "fronttext":"こわい",
+      "backtext": "frightening",
+      "source": "book2",
+      "page": 79
+    },
+    {
+      "kanji":false,
+      "fronttext":"ながめ",
+      "backtext": "view",
+      "source": "book2",
+      "page": 79
+    },
+    {
+      "kanji":false,
+      "fronttext":"はじめ",
+      "backtext": "Beginning, at first",
+      "source": "book2",
+      "page": 79
+    },
+    {
+      "kanji":false,
+      "fronttext":"あととし",
+      "backtext": "the year before last",
+      "source": "book2",
+      "page": 79
+    },
+    {
+      "kanji":true,
+      "fronttext":"帰る",
+      "backtext": "To return （かえる）",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"帰り",
+      "backtext": "Return （かえり） (noun)　今日は帰りがおそいです I will be late home today",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"本",
+      "backtext": "Book (ほん)",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"日本",
+      "backtext": "Japan (にほん)",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"何本",
+      "backtext": "How many (books)（なんほん）",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"木",
+      "backtext": "Tree (き)",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"六本木",
+      "backtext": "Roppongi ろっぽんぎ",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"木曜日",
+      "backtext": "Thursday (もくようび)",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"課",
+      "backtext": "Section/Lesson （ぶ）",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"課の人",
+      "backtext": "Person in the section, like work section （かのひと）",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"仕事",
+      "backtext": "Work （しごと）",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"用事",
+      "backtext": "Things to do, errands",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"お大事に",
+      "backtext": "Take care of yourself (おだいじに)",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"事",
+      "backtext": "Affair/abstract thing (こと)",
+      "source": "book2",
+      "page": 80
+    },
+    {
+      "kanji":true,
+      "fronttext":"仕",
+      "backtext": "Serve (し　in　仕事)",
+      "source": "book2",
+      "page": 81
+    },
+    {
+      "kanji":true,
+      "fronttext":"昼",
+      "backtext": "Noon/daytime ひる",
+      "source": "book2",
+      "page": 81
+    },
+    {
+      "kanji":true,
+      "fronttext":"昼食",
+      "backtext": "Lunch (ちゅうしょく)",
+      "source": "book2",
+      "page": 81
+    },
+    {
+      "kanji":true,
+      "fronttext":"夜",
+      "backtext": "Night (よる)",
+      "source": "book2",
+      "page": 81
+    },
+    {
+      "kanji":true,
+      "fronttext":"見る",
+      "backtext": "To see （みる）",
+      "source": "book2",
+      "page": 81
+    },
+    {
+      "kanji":true,
+      "fronttext":"見せる",
+      "backtext": "To show (みせる)",
+      "source": "book2",
+      "page": 81
+    },
+    {
+      "kanji":true,
+      "fronttext":"見学",
+      "backtext": "Field trip （けんがく）",
+      "source": "book2",
+      "page": 81
+    },
+    {
+      "kanji":true,
+      "fronttext":"食べる",
+      "backtext": "To eat　(たべる)",
+      "source": "book2",
+      "page": 81
+    },
+    {
+      "kanji":true,
+      "fronttext":"昼食",
+      "backtext": "Lunch (ちゅうしょうく)",
+      "source": "book2",
+      "page": 81
+    },
+    {
+      "kanji":true,
+      "fronttext":"朝食",
+      "backtext": "Breakfast　（ちょうしょく）",
+      "source": "book2",
+      "page": 81
+    },
+    {
+      "kanji":true,
+      "fronttext":"食事",
+      "backtext": "Mealtime　(しょくじ)",
+      "source": "book2",
+      "page": 81
     }
 ]

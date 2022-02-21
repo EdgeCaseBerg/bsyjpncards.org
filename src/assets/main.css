@@ -4,7 +4,7 @@
 }
 
 body {
-	line-height: 1.75em;
+	
 	background-color: #222;
 	color: #aaa;
 }
@@ -29,10 +29,6 @@ a[href]:hover {
 
 img {
 	max-width: 100%;
-}
-
-li {
-	line-height: 1.5em;
 }
 
 button {
