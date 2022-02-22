@@ -4092,5 +4092,143 @@
       "backtext": "The entire house, throughout the house",
       "source": "book2",
       "page": 106
+    },
+    {
+      "kanji":false,
+      "fronttext":"どう　したん　です　か",
+      "backtext": "what's the matter/What's wrong",
+      "source": "class"
+    },
+    {
+      "kanji":false,
+      "fronttext":"いいえ、もう　かったん　です",
+      "backtext": "No, I already bought (it)",
+      "source": "class"
+    },
+    {
+      "kanji":true,
+      "fronttext":"子供の時",
+      "backtext": "When I was a child こどものとき",
+      "source": "class"
+    },
+    {
+      "kanji":false,
+      "fronttext":"あついとき　アイスクリームをたべます",
+      "backtext": "When it's hot, I eat ice cream",
+      "source": "class"
+    },
+    {
+      "kanji":true,
+      "fronttext":"時間　が　ある　とき、ほん　を　読みます",
+      "backtext": "When I have time, I read books　(じかん が ある とき, ほん　を　よみます)",
+      "source": "class"
+    },
+    {
+      "kanji":false,
+      "fronttext":"めがね　を　かけます",
+      "backtext": "To put on glasses (same verb as to hang a picture)",
+      "source": "class"
+    },
+    {
+      "kanji":true,
+      "fronttext":"出る前",
+      "backtext": "before leaving　(でるまえ)",
+      "source": "class"
+    },
+    {
+      "kanji":true,
+      "fronttext":"出た後",
+      "backtext": "after leaving (でたあと)",
+      "source": "class"
+    },
+    {
+      "kanji":false,
+      "fronttext":"事務所　を　出る時、　電気　を　消しました",
+      "backtext": "Before leaving the office, I turn off the lights (じむしょ　を　出るとき　でんき　を　けしました)",
+      "source": "class"
+    },
+    {
+      "kanji":true,
+      "fronttext":"中学校に入る前にお鬼さんにテニスを習いました",
+      "backtext": "Before entering middle school I learned how to play tennis from my brother（ちゅうがっこうに　はいる　まえに　おにいさん　に　てにす　を　ならいました）",
+      "source": "class"
+    },
+    {
+      "kanji":false,
+      "backtext":"I've played tennis ever since",
+      "fronttext": "それから、ずっと　テニス　を　しています",
+      "source": "class"
+    },
+    {
+      "kanji":false,
+      "fronttext":"よねんせいのとき",
+      "backtext": "When I was a senior (4th year)",
+      "source": "class"
+    },
+    {
+      "kanji":true,
+      "fronttext":"日本に行く前に結婚しました",
+      "backtext": "Got married before going to Japan　（にほんにいくまえにけっこんしました）",
+      "source": "class"
+    },
+    {
+      "kanji":true,
+      "fronttext":"日本に行く前、二年間　日本語　を　勉強しました",
+      "backtext": "Before going to Japan she was studying japanese for two years （にほんに　いくまえ　にねんかん　にほんご　をべんきょううしていました）",
+      "source": "class"
+    },
+    {
+      "kanji":true,
+      "fronttext":"アメリカに変えてから",
+      "backtext": "After returning to America (あめりかにかえってから)",
+      "source": "class"
+    },
+    {
+      "kanji":true,
+      "fronttext":"日本に行って　から",
+      "backtext": "After going to Japan （にほんにいってから）",
+      "source": "class"
+    },
+    {
+      "kanji":false,
+      "fronttext":"なに　を　つくりたい",
+      "backtext": "what do I want to make?",
+      "source": "class"
+    },
+    {
+      "kanji":false,
+      "fronttext":"しらべる　(R2)",
+      "backtext": "To research/check",
+      "source": "class"
+    },
+    {
+      "kanji":true,
+      "fronttext":"安い　ツアー　は　よく　調べてから　申し込んだ ほう　が　いい　です　よ",
+      "backtext": "After doing your research, then you should sign up for a cheap tour （やす　ツアー　は　よく　しらべてから　もうしこんだ　ほう　が　いい　です　よ）",
+      "source": "class"
+    },
+    {
+      "kanji":false,
+      "fronttext":"もうしこむ　(R1)",
+      "backtext": "to apply for, sign up for",
+      "source": "class"
+    },
+    {
+      "kanji":true,
+      "fronttext":"家を出る前に何をしますか",
+      "backtext": "Before leaving the house　what do you do？　（うちをでるまえに　なにをしますか）",
+      "source": "class"
+    },
+    {
+      "kanji":true,
+      "fronttext":"ときどき家に変る前に会社でコンビニのお握りを食べます",
+      "backtext": "Sometimes before going home from work she eats a convenience store riceball ときどき　うちにかえるまえに　かいしゃで　コンビニのおにぎりをたべます",
+      "source": "class"
+    },
+    {
+      "kanji":false,
+      "fronttext":"もちろん　この　ほう　が　おいしい　です",
+      "backtext": "Of course this is more delicious",
+      "source": "class"
     }
 ]
