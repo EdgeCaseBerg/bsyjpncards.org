@@ -6,17 +6,20 @@
     </button>
     <table>
       <thead>
-        <trow>
+        <tr>
           <th colspan=3>Filter to cards</th>
-        </trow>
+        </tr>
       </thead>
       <tbody>
         <tr>
           <td>
-            <button @click="filterTo('book1')">Book 1</button>
+            <button @click="filterTo('book1', null)">Book 1</button>
           </td>
           <td>
-            <button @click="filterTo('book2')">Book 2</button>
+            <button @click="filterTo('book2', null)">Book 2</button>
+          </td>
+          <td>
+            <button @click="filterTo('book2', 80)">Level 3</button>
           </td>
           <td>
             <button @click="filterTo('class')">Class slides</button>
@@ -74,11 +77,15 @@ export default {
       this.seenToday.push(card)
       this.card = card
     },
-    filterTo: function (source) {
+    filterTo: function (source, upToPage) {
       const newArray = []
       for (let index = 0; index < originals.length; index++) {
         const element = originals[index]
-        if (element.source === source) {
+        console.log(upToPage)
+        if (
+          (element.source === source && upToPage === null) ||
+          (element.source === source && element.page && upToPage && element.page < upToPage)
+        ) {
           newArray.push(element)
         }
       }
