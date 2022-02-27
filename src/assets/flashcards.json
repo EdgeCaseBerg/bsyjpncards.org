@@ -3494,7 +3494,7 @@
     {
       "kanji":true,
       "fronttext":"お大事に",
-      "backtext": "Take care (of yourself/an ill person)",
+      "backtext": "Take care (of yourself/an ill person おだいじに)",
       "source": "book2",
       "page": 83
     },
@@ -4230,5 +4230,362 @@
       "fronttext":"もちろん　この　ほう　が　おいしい　です",
       "backtext": "Of course this is more delicious",
       "source": "class"
+    },
+    {
+      "kanji":true,
+      "fronttext":"日本に　来る　前に　日本語のべんきょう　を　はじめました",
+      "backtext": "I began my studies of Japanese before I came to Japan (emphasis on order of actions) （日本＝にほん、来る＝くる、　前＝まえ、日本語＝のほんご）",
+      "page": 103,
+      "source":"book2"
+    },
+    {
+      "kanji":true,
+      "fronttext":"日本に　来る　前、二年間　日本語　の　べんきょう　を　していました",
+      "backtext": "I had studied Japanese for two years before I came to Japan (emphasis on duration of the action by dropping に from 前) （日本＝にほん、来る＝くる、　前＝まえ、二年間＝２ねんかん、日本語＝のほんご）",
+      "page":103,
+      "source":"book2"
+    },
+    {
+      "kanji":false,
+      "fronttext":"そつぎょうします",
+      "backtext": "To Graduate",
+      "page":103,
+      "source": "book2"
+    },
+    {
+      "kanji":true,
+      "fronttext":"大学　を　行く　前に　そつぎょうしました",
+      "backtext": "I started a company before going to university （大学＝だいがく、行く＝いく、前に＝まえに）",
+      "page":103,
+      "source": "book2"
+    },
+    {
+      "kanji":true,
+      "fronttext":"仕事　が　終わってから、スポーツクラブ　に　行きます",
+      "backtext": "After work I go to a sports club (仕事＝しごと、終わって＝おわって",
+      "page":104,
+      "source": "book2"
+    },
+    {
+      "kanji":false,
+      "fronttext":"えいかいわ",
+      "backtext": "English conversation (～かいわ　is ~ conversation)",
+      "page":104,
+      "source": "book2"
+    },
+    {
+      "kanji":true,
+      "fronttext":"会社に　入ってから、ずっと　えいかいわ　の　レッスン　を　しています",
+      "backtext": "Ever since joining the company, I've taken english conversation lessons （会社＝かいしゃ、入＝はい）",
+      "page":104,
+      "source": "book2"
+    },
+    {
+      "kanji":true,
+      "fronttext":"中学　を　そつぎょうしてから、ずっと　やきゅう　を　していませえ",
+      "backtext": "I haven't played baseball since junior high school （中学＝ちゅうがく）",
+      "page":105,
+      "source": "book2"
+    },
+    {
+      "kanji":true,
+      "fronttext":"中学に　入ってから　高校　を　そつぎょうするまで　じゅうどう　を　していました",
+      "backtext": "From when I entered junior high school until I graduated from senior high school, I did Judo （中学-ちゅうがく、高校-こうこう",
+      "page":105,
+      "source": "book2"
+    },
+    {
+      "kanji":false,
+      "fronttext":"（お）けしょうをする",
+      "backtext": "apply makeup (to your face)",
+      "page":105,
+      "source": "book2"
+    },
+    {
+      "kanji":false,
+      "fronttext":"千ェックする",
+      "backtext": "to check",
+      "page": 105,
+      "source": "book2"
+    },
+    {
+      "kanji":false,
+      "fronttext":"そつぎょうするまで",
+      "backtext": "Until graduation",
+      "page":105,
+      "source": "book2"
+    },
+    {
+      "kanji":false,
+      "fronttext":"しけん　を　うける (R2)",
+      "backtext": "To take an exam",
+      "page":107,
+      "source": "book2"
+    },
+    {
+      "kanji":false,
+      "fronttext":"しゅうしょくする (R2)",
+      "backtext": "get a job",
+      "page":107,
+      "source": "book2"
+    },
+    {
+      "kanji":false,
+      "fronttext": "てんしょくする",
+      "backtext": "Change jobs",
+      "page":107,
+      "source": "book2"
+    },
+    {
+      "kanji":false,
+      "fronttext": "ひっこす",
+      "backtext":  "To move (homes)",
+      "page":107,
+      "source": "book2"
+    },
+    {
+      "kanji":true,
+      "fronttext": "けっこんしてからも、ずっと　仕事　を　つづけますか",
+      "backtext": "Will you continue working after (you're) married?",
+      "page":108,
+      "source": "book2"
+    },
+    {
+      "kanji":false,
+      "fronttext": "てんきん ",
+      "backtext":  "Transfered",
+      "page":108,
+      "source": "book2"
+    },
+    {
+      "kanji":false,
+      "fronttext": "ずっと　ここに　すんでいるんですか",
+      "backtext":  "Have you always lived here?",
+      "page":108,
+      "source": "book2"
+    },
+    {
+      "kanji":false,
+      "fronttext": "しりあう",
+      "backtext":  "Get to know",
+      "page":108,
+      "source": "book2"
+    },
+    {
+      "kanji":true,
+      "fronttext": "こちらに　来てから、　しりあったんです",
+      "backtext":  "After coming here I got to know (them/you) （来＝き）",
+      "page":108,
+      "source": "book2"
+    },
+    {
+      "kanji":false,
+      "fronttext": "こう２のとき",
+      "backtext":  "In my second year of high school",
+      "page":109,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "じゅけんべんきょう",
+      "backtext": "studying for entrance exams",
+      "page":109,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "また　はじめたんです",
+      "backtext": "started again",
+      "page":109,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "大学に　はいってから、　また　はじめたんです",
+      "backtext": "After entering college, I started again (大学＝だいがく）",
+      "page":109,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "ほうりつ",
+      "backtext": "Law",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "けいざい",
+      "backtext": "economics",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "ぶんがく",
+      "backtext": "literature",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "いがく",
+      "backtext": "medical science",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "けいえい",
+      "backtext": "management",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "ぶつり",
+      "backtext": "",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "すうがく",
+      "backtext": "mathematics",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "こくさいかんけい",
+      "backtext": "international relations",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "きょうし",
+      "backtext": "teaching profession",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "かんごし",
+      "backtext": "nurse",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "けいかん",
+      "backtext": "police officer",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "けんちくか",
+      "backtext": "architect",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "けんきゅうしゃ",
+      "backtext": "Researcher",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "がいこうかん",
+      "backtext": "diplomat",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "こうむいん",
+      "backtext": "civil servant",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "えいぎょう",
+      "backtext": "sales and marketing",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "けいり",
+      "backtext": "accounting",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "そうむ",
+      "backtext": "general affairs",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "こうほう",
+      "backtext": "public relations",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "きかく",
+      "backtext": "planning",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "じんじ",
+      "backtext": "human resources",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "しょうひんかんり",
+      "backtext": "merchandise management",
+      "page":110,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "～と　よんでください",
+      "backtext": "call me ~ (a name, like call me Bill)",
+      "page":111,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "けいれき",
+      "backtext": "Personal history",
+      "page":112,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "二年後",
+      "backtext": "Two years later （にねんご）",
+      "page":112,
+      "source": "book2"
+    },
+    {
+      "kanji": false,
+      "fronttext": "じょせい",
+      "backtext": "Female/woman",
+      "page":112,
+      "source": "book2"
     }
 ]
