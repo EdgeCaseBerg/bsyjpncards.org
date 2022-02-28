@@ -4587,5 +4587,153 @@
       "backtext": "Female/woman",
       "page":112,
       "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "大学",
+      "backtext": "University （だいがく",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "入学",
+      "backtext": "Entrance into school（にゅうがく）",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "見学",
+      "backtext": "Field trip（けんがく）",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "学",
+      "backtext": "learn (がく）",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "生まれる",
+      "backtext": "to be born （うまれる）",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "学生",
+      "backtext": "Student　（がくせい）",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "先生",
+      "backtext": "Teacher (せんせい）",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "学校",
+      "backtext": "school（がっこう）",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "小学校",
+      "backtext": "Primary school（しょうがっこう）",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "高校",
+      "backtext": "High school （こうこう）",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "支社",
+      "backtext": "branch office (ししゃ)",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "会社",
+      "backtext": "Company (かいしゃ)",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "本社",
+      "backtext": "Main office (ほんしゃ)",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "社員",
+      "backtext": "Employee（しゃいん）",
+      "page":113,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "終わる",
+      "backtext": "to end （おわる）",
+      "page":114,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "終わり",
+      "backtext": "end (おわり)　(noun)",
+      "page":114,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "日本語",
+      "backtext": "Japanese language",
+      "page":114,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "子ども",
+      "backtext": "Child (こども）",
+      "page":114,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "子",
+      "backtext": "Child （こ）",
+      "page":114,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "男の人",
+      "backtext": "Adult (おとこのひと）",
+      "page":114,
+      "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "女の子",
+      "backtext": "woman （おんなのこおんなのこ）",
+      "page":114,
+      "source": "book2"
     }
+
 ]
