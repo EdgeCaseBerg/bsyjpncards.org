@@ -2934,7 +2934,7 @@
     {
       "kanji":true,
       "fronttext":"ざんねん　ですが　あした　は　用事が　あるんです",
-      "backtext": "It's too bad, but tomorrow I have things to do",
+      "backtext": "It's too bad, but tomorrow I have things to do (用事=ようじ)",
       "source": "book2",
       "page": 69
     },
@@ -3361,7 +3361,7 @@
     {
       "kanji":true,
       "fronttext":"用事",
-      "backtext": "Things to do, errands",
+      "backtext": "Things to do, errands　（ようじ）",
       "source": "book2",
       "page": 80
     },
@@ -4734,6 +4734,185 @@
       "backtext": "woman （おんなのこおんなのこ）",
       "page":114,
       "source": "book2"
+    },
+    {
+      "kanji": true,
+      "fronttext": "ひまな時、よくおんせん　に　行きます",
+      "backtext": "When (時＝とき、行き＝いき）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "私は　ひまな時　。。。",
+      "backtext": "When I'm free I... (私＝わたし、時＝とき)",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "一日中",
+      "backtext": "All day long（いちにちじゅう）",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "一晩中",
+      "backtext": "All night long　(ひとばんじゅう)",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "アパートじゅう",
+      "backtext": "Throughout the entire apartment",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "警官",
+      "backtext": "Police （けいかん）",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "かのじょら",
+      "backtext": "they (women)",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "彼女",
+      "backtext": "girlfriend/she/her （かのじょ）",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "かれ",
+      "backtext": "he/him/boyfriend",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "男性",
+      "backtext": "man だんせい",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "かれら",
+      "backtext": "they (men)",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "マンション",
+      "backtext": "Apartment complex (まんしょん)",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "住宅",
+      "backtext": "Residence, housing (じゅたく)",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "道",
+      "backtext": "Road/way　みち",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "道路",
+      "backtext": "Highway or bigger road どうろ",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "橋",
+      "backtext": "Bridge はし",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "工場",
+      "backtext": "Factory こうじょう",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "商店街",
+      "backtext": "Shopping street しょうてんがい",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "大型スーパー",
+      "backtext": "supercenter (market, like a mall) おおがたすーぱー",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "駅ビル",
+      "backtext": "Station building",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "くぁりました",
+      "backtext": "to change",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "とても　便利　に　なりました",
+      "backtext": "It's become very convenient (便利＝べんり）",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "大きく　なりました",
+      "backtext": "To become bigger (大きく＝おおきく)",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "くらい",
+      "backtext": "dark",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "くらく　なりました",
+      "backtext": "It become dark",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "主人",
+      "backtext": "Husband しゅじん",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "春",
+      "backtext": "Spring はる",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "なりたかったん",
+      "backtext": "wanted to become...",
+      "source": "class"
+    },
+    {
+      "kanji": true,
+      "fronttext": "子供の時　何に　なりたかったん　です　か",
+      "backtext": "What did you want to become when you were a kid (子供の時＝こどものとき、何＝なに)",
+      "source": "class"
+    },
+    {
+      "kanji": false,
+      "fronttext": "どうして　ならなかったんですか",
+      "backtext": "Why didn't you become (one)",
+      "source": "class"
     }
-
 ]
