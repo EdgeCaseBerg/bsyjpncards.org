@@ -4914,5 +4914,676 @@
       "fronttext": "どうして　ならなかったんですか",
       "backtext": "Why didn't you become (one)",
       "source": "class"
-    }
+    },
+	{
+  	"kanji": false,
+  	"fronttext": "おはようございます",
+  	"backtext": "Good Morning",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "こんにちは",
+  	"backtext": "Hello",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "こんばんは",
+  	"backtext": "Good Evening",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "おやすみなさい",
+  	"backtext": "Good Night",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "さようなら",
+  	"backtext": "Good Bye",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "では/じゃ　また",
+  	"backtext": "Well then... (informal goodbye)",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "おさきにしつれいします",
+  	"backtext": "leaving office or meeting before others",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "いってらっしゃい",
+  	"backtext": "So long (lit Go and Come back)",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "いってきます",
+  	"backtext": "So long (lit I am going and coming back)",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ただいま",
+  	"backtext": "I'm back",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "おかえりなさい",
+  	"backtext": "Welcome Home",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "いただきます",
+  	"backtext": "said before eating a meal",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ごちそうさまでした",
+  	"backtext": "said after eating a meal",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "おめでとうございます",
+  	"backtext": "congratulations",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "どうも　ありがとうございます",
+  	"backtext": "Thank you very much",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "どういたしまして",
+  	"backtext": "You're Welcome",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "すみません",
+  	"backtext": "Excuse Me - I'm Sorry",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ちょっと　まってください",
+  	"backtext": "Wait just a moment please",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "もう　いちどう　おねがいします",
+  	"backtext": "Once more please",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "どうぞ　おさきに",
+  	"backtext": "Please Go Ahead",
+  	"source": "book1"
+	},
+	{
+  	"kanji": true,
+  	"fronttext": "気をつけて",
+  	"backtext": "きをつけて - Take Care",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "おだいじに",
+  	"backtext": "Take care of yourself (for sick or injured person)",
+  	"source": "book1"
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "さん",
+  	"backtext": "Mr. Mrs. Ms. Miss",
+  	"source": "book1",
+  	"page": 3
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "こちら",
+  	"backtext": "this one (polite for 'this person')",
+  	"source": "book1",
+  	"page": 3
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "は",
+  	"backtext": "(particle that denotes topic of sentence)",
+  	"source": "book1",
+  	"page": 3
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "です",
+  	"backtext": "be",
+  	"source": "book1",
+  	"page": 3
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "の",
+  	"backtext": "'s - of (particle indicating belonging)",
+  	"source": "book1",
+  	"page": 3
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "べんごし",
+  	"backtext": "lawyer",
+  	"source": "book1",
+  	"page": 3
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "はじめまして",
+  	"backtext": "how do you do?",
+  	"source": "book1",
+  	"page": 3
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "よろしくおねがいします",
+  	"backtext": "pleased to meet you",
+  	"source": "book1",
+  	"page": 3
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "デパート",
+  	"backtext": "department store",
+  	"source": "book1",
+  	"page": 3
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "にほん",
+  	"backtext": "Japan",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ちゅうごく",
+  	"backtext": "China",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ドイツ",
+  	"backtext": "Germany",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "イギリス",
+  	"backtext": "England",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "アメリカ",
+  	"backtext": "USA",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "オーストラリア",
+  	"backtext": "Australia",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "タイ",
+  	"backtext": "Thailand",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "にほんじん",
+  	"backtext": "Japanese person",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ちゅうごくじん",
+  	"backtext": "Chinese person",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ドイツじん",
+  	"backtext": "German person",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "イギリスじん",
+  	"backtext": "English person",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "アメリカじん",
+  	"backtext": "American person",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "オーストラリアじん",
+  	"backtext": "Australian person",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "タイじん",
+  	"backtext": "Thai person",
+  	"source": "book1",
+  	"page": 4
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ひしょ",
+  	"backtext": "secretary",
+  	"source": "book1",
+  	"page": 5
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "がくせい",
+  	"backtext": "student",
+  	"source": "book1",
+  	"page": 5
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "エンジニア",
+  	"backtext": "engineer",
+  	"source": "book1",
+  	"page": 5
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "か",
+  	"backtext": "(particle that denotes a question)",
+  	"source": "book1",
+  	"page": 6
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "はい",
+  	"backtext": "yes",
+  	"source": "book1",
+  	"page": 6
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "いいえ",
+  	"backtext": "no",
+  	"source": "book1",
+  	"page": 6
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "あなた",
+  	"backtext": "you",
+  	"source": "book1",
+  	"page": 7
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ロンドン",
+  	"backtext": "London",
+  	"source": "book1",
+  	"page": 7
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ぎんこう",
+  	"backtext": "bank",
+  	"source": "book1",
+  	"page": 7
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "とうきょう",
+  	"backtext": "Tokyo",
+  	"source": "book1",
+  	"page": 7
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "だいがく",
+  	"backtext": "college",
+  	"source": "book1",
+  	"page": 7
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "おねがいします",
+  	"backtext": "please",
+  	"source": "book1",
+  	"page": 8
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "うけつけ",
+  	"backtext": "reception desk",
+  	"source": "book1",
+  	"page": 8
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "たかはしさん　を　おねがいします",
+  	"backtext": "Get me Mr. Takahashi please",
+  	"source": "book1",
+  	"page": 8
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "どなた",
+  	"backtext": "who (more polite than だれ)",
+  	"source": "book1",
+  	"page": 8
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "はい　どうぞ",
+  	"backtext": " Please go ahead",
+  	"source": "book1",
+  	"page": 8
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "わたしの",
+  	"backtext": "my",
+  	"source": "book1",
+  	"page": 9
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "めいし",
+  	"backtext": "business card",
+  	"source": "book1",
+  	"page": 9
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "どうぞ",
+  	"backtext": "please; if you please",
+  	"source": "book1",
+  	"page": 9
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "これ",
+  	"backtext": "this one",
+  	"source": "book1",
+  	"page": 9
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "なまえ",
+  	"backtext": "name",
+  	"source": "book1",
+  	"page": 9
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ええ",
+  	"backtext": "yes (less formal than はい)",
+  	"source": "book1",
+  	"page": 9
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "そうです",
+  	"backtext": "that's right",
+  	"source": "book1",
+  	"page": 9
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "これは?",
+  	"backtext": "what about this?",
+  	"source": "book1",
+  	"page": 9
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "かいしゃ",
+  	"backtext": "company",
+  	"source": "book1",
+  	"page": 9
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ゼロ",
+  	"backtext": "zero",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "いち",
+  	"backtext": "one",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "に",
+  	"backtext": "two",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "さん",
+  	"backtext": "three",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "よん - し",
+  	"backtext": "four",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ご",
+  	"backtext": "five",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ろく",
+  	"backtext": "six",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "なな",
+  	"backtext": "seven",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "はち",
+  	"backtext": "eight",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "きゅう",
+  	"backtext": "nine",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "じゅう",
+  	"backtext": "ten",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "じゅうしょ",
+  	"backtext": "address",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "でんわばんごう",
+  	"backtext": "phone number",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "でんわ",
+  	"backtext": "telephone",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ばんごう",
+  	"backtext": "number",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "メールアドレス",
+  	"backtext": "email address",
+  	"source": "book1",
+  	"page": 10
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "けいたい",
+  	"backtext": "cell phone",
+  	"source": "book1",
+  	"page": 11
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "けさ",
+  	"backtext": "umbrella",
+  	"source": "book1",
+  	"page": 11
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "しんぶん",
+  	"backtext": "newspaper",
+  	"source": "book1",
+  	"page": 11
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "かぎ",
+  	"backtext": "key",
+  	"source": "book1",
+  	"page": 11
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "とけい",
+  	"backtext": "watch/clock",
+  	"source": "book1",
+  	"page": 11
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "ではありません",
+  	"backtext": "is/are not",
+  	"source": "book1",
+  	"page": 11
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "なかむらのです",
+  	"backtext": "that is Ms. Nakamura's X",
+  	"source": "book1",
+  	"page": 14
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "だれ",
+  	"backtext": "who",
+  	"source": "book1",
+  	"page": 14
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "たいしかん",
+  	"backtext": "embassy",
+  	"source": "book1",
+  	"page": 15
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "なんばん",
+  	"backtext": "what number",
+  	"source": "book1",
+  	"page": 15
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "てちょう",
+  	"backtext": "date book",
+  	"source": "book1",
+  	"page": 17
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "もう",
+  	"backtext": "more",
+  	"source": "book1",
+  	"page": 17
+	},
+	{
+  	"kanji": false,
+  	"fronttext": "いちど",
+  	"backtext": "one time",
+  	"source": "book1",
+  	"page": 17
+	}
 ]
