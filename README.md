@@ -22,3 +22,11 @@ npm run build
 ```
 npm run lint
 ```
+
+### Formats flashcards to normalize spacing
+
+If you have any contributions then please normalize the spacing in the flashcards file by running
+
+```
+npm run format-flashcards
+```
