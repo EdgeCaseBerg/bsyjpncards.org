@@ -4914,5 +4914,299 @@
         "fronttext": "どうして　ならなかったんですか",
         "backtext": "Why didn't you become (one)",
         "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "七年前と　くらべて、　だいぶ　便利　に　なりました",
+        "backtext": "it's become more convient than 7 years ago (七年前＝しちねんまえ、便利＝べんり)",
+        "source": "book2",
+        "page": 115
+    },
+    {
+        "kanji": false,
+        "fronttext": "だいぶん",
+        "backtext": "to a large extent (more than expected)/considerably",
+        "source": "book2",
+        "page": 115
+    },
+    {
+        "kanji": false,
+        "fronttext": "だいぶ",
+        "backtext": "to a large extent (more, but not quite completely)/quite a bit",
+        "source": "book2",
+        "page": 115
+    },
+    {
+        "kanji": true,
+        "fronttext": "中二",
+        "backtext": "short for second year junior high （じゅうに）",
+        "source": "book2",
+        "page": 116
+    },
+    {
+        "kanji": false,
+        "fronttext": "きらい　（な）",
+        "backtext": "Dislike, be sick of",
+        "source": "book2",
+        "page": 117
+    },
+    {
+        "kanji": false,
+        "fronttext": "くらべる　(R2)",
+        "backtext": "to Compare",
+        "source": "book2",
+        "page": 116
+    },
+    {
+        "kanji": true,
+        "fronttext": "森田",
+        "backtext": "Morita (Surname)",
+        "source": "book2",
+        "page": 116
+    },
+    {
+        "kanji": true,
+        "fronttext": "中島",
+        "backtext": "Nakajima (surname)",
+        "source": "book2",
+        "page": 117
+    },
+    {
+        "kanji": true,
+        "fronttext": "コートや　セーター　が　安く　なりました",
+        "backtext": "Coats and sweaters have become cheaper （安い＝やすい）",
+        "source": "book2",
+        "page": 117
+    },
+    {
+        "kanji": false,
+        "fronttext": "てんき　が　よく　なりました",
+        "backtext": "The weather has become better",
+        "source": "book2",
+        "page": 117
+    },
+    {
+        "kanji": false,
+        "fronttext": "ゆうめい　に　なります",
+        "backtext": "become Famous （な adjective）",
+        "source": "book2",
+        "page": 117
+    },
+    {
+        "kanji": false,
+        "fronttext": "はたち　に　なりました",
+        "backtext": "Become twenty years old",
+        "source": "book2",
+        "page": 118
+    },
+    {
+        "kanji": false,
+        "fronttext": "びょうき　に　なりました",
+        "backtext": "I became ill",
+        "source": "book2",
+        "page": 118
+    },
+    {
+        "kanji": false,
+        "fronttext": "すずしい",
+        "backtext": "Cool (i-adjective)",
+        "source": "book2",
+        "page": 118
+    },
+    {
+        "kanji": true,
+        "fronttext": "しんぶん　を　読む　とき、めがね　を　かけます",
+        "backtext": "When I read the newspaper, I wear glasses (読む＝よむ). Plain form of verb is used with とき",
+        "source": "book2",
+        "page": 119
+    },
+    {
+        "kanji": false,
+        "fronttext": "みち　が　わからない",
+        "backtext": "Lost (lit. don't understand the way/road)",
+        "source": "book2",
+        "page": 119
+    },
+    {
+        "kanji": true,
+        "fronttext": "あした　パーティー　に　行く　とき",
+        "backtext": "When I go to the party tomorrow...　（行く＝いく）",
+        "source": "book2",
+        "page": 119
+    },
+    {
+        "kanji": true,
+        "fronttext": "日本に　来る　とき。。。",
+        "backtext": "On my way to Japan (present tense) （日本＝にほん、来る＝くる）",
+        "source": "book2",
+        "page": 119
+    },
+    {
+        "kanji": true,
+        "fronttext": "日本に　来た　とき。。。",
+        "backtext": "When I came to Japan (past tense) (日本＝にほん、来た＝くた",
+        "source": "book2",
+        "page": 119
+    },
+    {
+        "kanji": true,
+        "fronttext": "しんかんせん　に　のる　とき、　いつも　ビール　を　買います",
+        "backtext": "When I ride the Shinkansen, I buy a beer",
+        "source": "book2",
+        "page": 118
+    },
+    {
+        "kanji": false,
+        "fronttext": "ばいてん",
+        "backtext": "Stall, Kiosk",
+        "source": "book2",
+        "page": 120
+    },
+    {
+        "kanji": false,
+        "fronttext": "ひろう",
+        "backtext": "Pick up",
+        "source": "book2",
+        "page": 120
+    },
+    {
+        "kanji": false,
+        "fronttext": "ビール　を　ひろって、せきに　すわりました",
+        "backtext": "I picked up a beer and then sat in my seat",
+        "source": "book2",
+        "page": 120
+    },
+    {
+        "kanji": true,
+        "fronttext": "飲みたく　なりました",
+        "backtext": "became thirsty (飲み＝のみ）",
+        "source": "book2",
+        "page": 120
+    },
+    {
+        "kanji": true,
+        "fronttext": "東",
+        "backtext": "East （ひがし）",
+        "source": "book2",
+        "page": 130
+    },
+    {
+        "kanji": true,
+        "fronttext": "京",
+        "backtext": "Capital （きょう）",
+        "source": "book2",
+        "page": 130
+    },
+    {
+        "kanji": true,
+        "fronttext": "東京",
+        "backtext": "Tokyo",
+        "source": "book2",
+        "page": 130
+    },
+    {
+        "kanji": true,
+        "fronttext": "京都",
+        "backtext": "Kyouto",
+        "source": "book2",
+        "page": 130
+    },
+    {
+        "kanji": true,
+        "fronttext": "西",
+        "backtext": "West （にし）",
+        "source": "book2",
+        "page": 130
+    },
+    {
+        "kanji": true,
+        "fronttext": "南",
+        "backtext": "South（みなみ）",
+        "source": "book2",
+        "page": 130
+    },
+    {
+        "kanji": true,
+        "fronttext": "北",
+        "backtext": "North（きた）",
+        "source": "book2",
+        "page": 130
+    },
+    {
+        "kanji": true,
+        "fronttext": "北海道",
+        "backtext": "Hokkaido",
+        "source": "book2",
+        "page": 130
+    },
+    {
+        "kanji": true,
+        "fronttext": "便",
+        "backtext": "Convenient (べん)",
+        "source": "book2",
+        "page": 131
+    },
+    {
+        "kanji": true,
+        "fronttext": "利",
+        "backtext": "Advantage/profit（り）",
+        "source": "book2",
+        "page": 131
+    },
+    {
+        "kanji": true,
+        "fronttext": "便利",
+        "backtext": "Convenient （べんり）",
+        "source": "book2",
+        "page": 131
+    },
+    {
+        "kanji": true,
+        "fronttext": "言う",
+        "backtext": "tell",
+        "source": "book2",
+        "page": 131
+    },
+    {
+        "kanji": true,
+        "fronttext": "夕",
+        "backtext": "Evening （ゆう）",
+        "source": "book2",
+        "page": 131
+    },
+    {
+        "kanji": true,
+        "fronttext": "夕食",
+        "backtext": "Dinner",
+        "source": "book2",
+        "page": 131
+    },
+    {
+        "kanji": true,
+        "fronttext": "夕日",
+        "backtext": "Sunset",
+        "source": "book2",
+        "page": 131
+    },
+    {
+        "kanji": true,
+        "fronttext": "空",
+        "backtext": "sky",
+        "source": "book2",
+        "page": 131
+    },
+    {
+        "kanji": true,
+        "fronttext": "空気",
+        "backtext": "air/atmosphere くうき",
+        "source": "book2",
+        "page": 131
+    },
+    {
+        "kanji": true,
+        "fronttext": "空く",
+        "backtext": "Free あく",
+        "source": "book2",
+        "page": 131
     }
 ]
