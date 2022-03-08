@@ -5208,5 +5208,197 @@
         "backtext": "Free あく",
         "source": "book2",
         "page": 131
+    },
+    {
+        "kanji": false,
+        "fronttext": "どうして　ならんかったん ですか",
+        "backtext": "Why didn't you become it?",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "最近",
+        "backtext": "Recently さいきん",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext": "-しき",
+        "backtext": "Ceremony, suffix, like けっこんしき a wedding ceremony",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext": "はげしい",
+        "backtext": "Intense, extreme",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "はげしく　なりました",
+        "backtext": "It's become more intense/extreme",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "激しい",
+        "backtext": "Intense, extreme",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "時間　が　かかりました",
+        "backtext": "Took a lot of time（時間＝じかん）",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "にもつ　を　チェックインするとき、一時間ぐらい　待ちました",
+        "backtext": "I waited an hour to get my luggage checked　(一時間＝いちじかん、　待ちました＝まちました）",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "飛行機",
+        "backtext": "Airplane (ひこうき)",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext": "せんせい　は　きびし",
+        "backtext": "The teacher is strict",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "高校　の 同窓会",
+        "backtext": "Highschool Reunion （こうこう　の どうそかい）",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext": "かいしゃ　に　つとめています",
+        "backtext": "To be employed at company",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "_ と　言って　いました",
+        "backtext": "(she/he) said _　（言って＝いって）",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "自然",
+        "backtext": "nature　（しぜん）",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "素晴らしかった",
+        "backtext": "It was Wonderful, magnificent （すばらしかった）",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext": "みどり　が　ある",
+        "backtext": "lit: there's green, an expression used to express seeing greenery, like nature",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "川",
+        "backtext": "River　かわ",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "海",
+        "backtext": "The sea/ocean （うみ）",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "湖",
+        "backtext": "Lake （みずうみ）",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "空気",
+        "backtext": "Air (くうき)",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "雲",
+        "backtext": "Clouds （くも）",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "山",
+        "backtext": "Mountain (やま)",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "森",
+        "backtext": "Forest (もり)",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "林",
+        "backtext": "Woods（はやし）",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "畑",
+        "backtext": "Fields　（はたけ）",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "田んぼ",
+        "backtext": "Rice fields （たんぼ）",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext": "どんな はなし　を　したん　ですか",
+        "backtext": "What kinds of things did you talk about?",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext": "その　ともだち　は　どんあ　しごと　を　して　いるん　ですか",
+        "backtext": "What kind of work does that friend do?",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "話",
+        "backtext": "Talk (はなし)",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "週発 の　ロビ",
+        "backtext": "Departures (at an airport)（しゅうぱつ）",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "おてかけ　です　か",
+        "backtext": "Are you leaving? / Are you going out? (odekake is a noun)",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext": "出張中",
+        "backtext": "During a business trip （しゅっちょちゅう）",
+        "source": "class"
     }
 ]
