@@ -22,7 +22,7 @@
             <button @click="filterTo('book2', 80)">Level 3</button>
           </td>
           <td>
-            <button @click="filterTo('class')">Class slides</button>
+            <button @click="filterTo('class', null)">Class slides</button>
           </td>
           <td>
             <button @click="filterKanji('kanji')">Has Kanji</button>
