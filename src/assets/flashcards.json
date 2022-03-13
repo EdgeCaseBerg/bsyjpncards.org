@@ -6071,5 +6071,180 @@
         "fronttext": "出張中",
         "backtext": "During a business trip （しゅっちょちゅう）",
         "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"林さん　は　「京都　に　行きます」と　言っていました",
+        "backtext": "Hayashi-san said \"I will go to Kyouto\". （林＝はやし、京都＝きょうと、言＝い）(Direct Quote)",
+        "page": 122,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext":"林さん　は　京都　に　行くと　言っていました",
+        "backtext": "Hayashi-san said he would go to Kyouto (indirect quote) （林＝はやし、京都＝きょうと、言＝い）",
+        "page": 122,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"ゆうべ",
+        "backtext": "Last night",
+        "page": 122,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"きいろい",
+        "backtext": "Yellow",
+        "page": 122,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"すごします",
+        "backtext": "Spent time (すごす=spend for time)",
+        "page": 122,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext":"私は　林さん　は　京都　に　行くと　おもいます",
+        "backtext": "I think Hayashi-san said he will go to Kyouto　（私＝わたし、林＝はやし、京都＝きょうと、行＝い）",
+        "page": 122,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext":"私は　林さん　は　京都　に　行くないと　おもいます",
+        "backtext": "I don't think Hayashi-san said he will go to Kyouto　（私＝わたし、林＝はやし、京都＝きょうと、行＝い）",
+        "page": 122,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"おかね　が　かかると　おもいます",
+        "backtext": "I think it will cost money",
+        "page": 123,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"ひつよう　（な）",
+        "backtext": "Necessary",
+        "page": 123,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"ひつよう　だと　おもいます",
+        "backtext": "I think it's neccesary",
+        "page": 123,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext":"今年中",
+        "backtext": "Within the year",
+        "page": 123,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext":"安くて　いない　と　おもいます",
+        "backtext": "I don't think it's cheap and good",
+        "page": 123,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"いけ　(noun)",
+        "backtext": "Pond",
+        "page": 124,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"たんぼ",
+        "backtext": "Rice paddy",
+        "page": 124,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"どうろ",
+        "backtext": "road",
+        "page": 124,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"こうつうきかん",
+        "backtext": "Means of transportation",
+        "page": 124,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"がサリンスタンド",
+        "backtext": "Gas station",
+        "page": 124,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"かわる (verb)",
+        "backtext": "to change",
+        "page": 124,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"きたなくなる (verb)",
+        "backtext": "become dirty",
+        "page": 124,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"さまい",
+        "backtext": "cramped",
+        "page": 124,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"さまくなる",
+        "backtext": "become cramped",
+        "page": 124,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"きゅうに",
+        "backtext": "Suddenly, dramatically",
+        "page": 124,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext":"三年前に　えきが　できてから、きゅうに　マンション　や　じゅうたく　が　ふえたん　です",
+        "backtext": "Ever since the station was built 3 years ago, the number of apartment blocks and residences as increased dramatatically. （三年前＝さんねんまえ）",
+        "page": 125,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext":"木も　いけも　むかし　の　まま　です",
+        "backtext": "The tree and pond are just as they were back in the old days（木＝き）",
+        "page": 125,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext":"かわっていませんね",
+        "backtext": "(It) hasn't changed huh",
+        "page": 125,
+        "source": "book2"
     }
 ]
