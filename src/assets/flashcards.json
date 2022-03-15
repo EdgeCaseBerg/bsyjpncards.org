@@ -6246,5 +6246,215 @@
         "backtext": "(It) hasn't changed huh",
         "page": 125,
         "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext":"東",
+        "backtext": "east ひがし",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"北",
+        "backtext": "North　きた",
+        "source": "ｃlass"
+    },
+    {
+        "kanji":true,
+        "fronttext":"西",
+        "backtext": "West にし",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"南",
+        "backtext": "south みなみ",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"夕食",
+        "backtext": "Dinner/evening meal ゆうしょく",
+        "source": "class"
+    },
+    {
+        "kanji":false,
+        "fronttext":"まだ　たばません",
+        "backtext": "Haven't eaten yet",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"空手",
+        "backtext": "Karate (Empty hand) からて",
+        "source": "class"
+    },
+    {
+        "kanji":false,
+        "fronttext":"じかん　が　あいて　いる",
+        "backtext": "Are you free? (informal)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"東京　は　とても　便利だ　と　思います",
+        "backtext": "I think Tokyo is convenient とうきょう　は　とても　べんり　だ　と　おもいます",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"空気　が　おいしかった　と　言っていました",
+        "backtext": "They said the air was delicious (空気＝くうき、言って＝いって)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"雪",
+        "backtext": "Snow （ゆき）",
+        "source": "class"
+    },
+    {
+        "kanji":false,
+        "fronttext":"どようびは　ゆき　の　ひ　でした。　きょうは　ゆき　ではない　ひ　です",
+        "backtext": "Saturday was a snow day. today isn't a snowy day",
+        "source": "class"
+    },
+    {
+        "kanji":false,
+        "fronttext":"わしつ",
+        "backtext": "Japanese style room",
+        "source": "class"
+    },
+    {
+        "kanji":false,
+        "fronttext":"ほしいもの",
+        "backtext": "Thing that I want",
+        "source": "class"
+    },
+    {
+        "kanji":false,
+        "fronttext":"なにも　ほしくない　です",
+        "backtext": "I don't want anything",
+        "source": "class"
+    },
+    {
+        "kanji":false,
+        "fronttext":"ほしいもの　ではない",
+        "backtext": "Not what you want",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"事務室",
+        "backtext": "office (じむしつ)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"喫煙室",
+        "backtext": "Smoking room きつえんしつ",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"ここは　じむしつ　です。　学校　の　スタフが　いる　ところ　です",
+        "backtext": "This is the office. This is where the school staff are　(事務室=じむしつ、　学校=がっこ）",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"教室",
+        "backtext": "Classroom きょうしつ",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"図書室",
+        "backtext": "Library room としょしつ",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"読んだり",
+        "backtext": "To read and so on　(よんだら) だり form implies we read and do other things",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"ロビ　です。　先生　や　学生　が　休む　ところ　です",
+        "backtext": "The lobby, a place for teachers and students to relax　（先生＝せんせい、学生＝がくせい、　休む＝やすむ）",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"色々",
+        "backtext": "various いろいろ （な adjective）",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"この　チャネル　は　日本語を勉強　を　する　ところ　です",
+        "backtext": "This channel is a place to study Japanese. （日本語＝にほんご、　勉強＝べんきょう）",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"デザインがいい車",
+        "backtext": "Well designed car （車＝クルム）",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"これは　母の　日に　娘に　もらった　梅酒　です",
+        "backtext": "This is the plum wine my daughter gave me on mother's day (これは　ははの　ひ　に　むすめに　もらった　うめしゅ　です)(verb is to receive) ",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"自分について話す",
+        "backtext": "Talking about oneself じぶん　に　ついて　はなす",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"スポーツ　を　見るの　が　好き　ですか",
+        "backtext": "Do you like watching sports? 見＝み, 好き＝すき",
+        "source": "class"
+    },
+    {
+        "kanji":false,
+        "fronttext":"スポーツ　を　する　こと　が　すき　では　ありません",
+        "backtext": "I don't like doing sports",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"観察",
+        "backtext": "Observation かんさつ",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"人や　もの　を　観察する",
+        "backtext": "Observing people and things (人＝ひと、観察＝かんさつ)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"甲虫",
+        "backtext": "Rhinoceros Beetle かぶとむし",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"どんな　かんさつ　を　するの　が　すき　ですか",
+        "backtext": "What do you like to observe",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext":"外で　体を　動かす",
+        "backtext": "Move your body outside (そとで　からだ　を　うごかす)",
+        "source": "class"
     }
 ]
