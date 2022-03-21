@@ -6456,5 +6456,82 @@
         "fronttext":"外で　体を　動かす",
         "backtext": "Move your body outside (そとで　からだ　を　うごかす)",
         "source": "class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "～ぶり",
+        "backtext": "After an interval of ... (suffix)(Think ひさしぶり)",
+        "source": "book2",
+        "page": 126
+    },
+    {
+        "kanji":false,
+        "fronttext": "おもいで",
+        "backtext": "Memory",
+        "source": "book2",
+        "page": 127
+    },
+    {
+        "kanji":false,
+        "fronttext": "ホストファミリー",
+        "backtext": "Host family",
+        "source": "book2",
+        "page": 127
+    },
+    {
+        "kanji":false,
+        "fronttext": "だんだん　すきに　なりました",
+        "backtext": "Gradually started to like (it) だんだん means gradually",
+        "source": "book2",
+        "page": 127
+    },
+    {
+        "kanji":false,
+        "fronttext": "はなれる (R2)",
+        "backtext": "To leave",
+        "source": "book2",
+        "page": 127
+    },
+    {
+        "kanji":false,
+        "fronttext": "きもち",
+        "backtext": "Feeling",
+        "source": "book2",
+        "page": 127
+    },
+    {
+        "kanji":true,
+        "fronttext": "物語",
+        "backtext": "Story, tale（ものがたり）",
+        "source": "book2",
+        "page": 127
+    },
+    {
+        "kanji":true,
+        "fronttext": "イチゴ畑",
+        "backtext": "Strawberry patch (いちごばたけ)",
+        "source": "book2",
+        "page": 127
+    },
+    {
+        "kanji":true,
+        "fronttext": "八百屋",
+        "backtext": "Fruit and Vegetable dealer（やおや）",
+        "source": "book2",
+        "page": 127
+    },
+    {
+        "kanji":true,
+        "fronttext": "主婦",
+        "backtext": "Housewife　(しゅふ)",
+        "source": "book2",
+        "page": 127
+    },
+    {
+        "kanji":true,
+        "fronttext": "少しずつ",
+        "backtext": "Little by little (すこしずつ)",
+        "source": "book2",
+        "page": 127
     }
 ]
