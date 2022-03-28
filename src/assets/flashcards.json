@@ -6533,5 +6533,383 @@
         "backtext": "Little by little (すこしずつ)",
         "source": "book2",
         "page": 127
+    },
+    {
+        "kanji":true,
+        "fronttext": "友人",
+        "backtext":"Friend （ゆうじん）",
+        "page": 132,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "はじめての　方",
+        "backtext": "Beginners (方＝かた)",
+        "page": 132,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "うかがう",
+        "backtext": "visit (humble about own action, showing respect to other person)",
+        "page": 132,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "よろこぶ",
+        "backtext": "Be pleased, be delighted",
+        "page": 132,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "来週　うかがっても　よろしいですか",
+        "backtext": "Would it be alright to visit next week? (来週＝らいしゅう)",
+        "page": 132,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "しんせつな　人",
+        "backtext": "A kind person (人＝ひと)",
+        "page": 134,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "雨ではない日",
+        "backtext": "A day that isn't rainy （雨＝あめ、日＝ひ）",
+        "page": 134,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "けいけんが長くない人",
+        "backtext": "An inexperienced person (長＝なが)",
+        "page": 134,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "子ども　の　ころ　すきだった　本",
+        "backtext": "A book I liked as a child (子ども＝こども、本＝ほん)",
+        "page": 134,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "マリーさん　が　かいた　え　は　かいぎしつ　に　あります",
+        "backtext": "The picture that Marie drew is in the meeting room",
+        "page": 134,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "とまる",
+        "backtext": "To stay overnight",
+        "page": 135,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "　とまった ホテル　は　あたらしくて　きれい　でした",
+        "backtext": "The hotel (I) stayed overnight in was new and clean",
+        "page": 135,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "なくす, なくしました",
+        "backtext": "to lose, lost",
+        "page": 135,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "私は　朝　ジョギング　を　する　の　が　すき　です",
+        "backtext": "I like jogging in the morning （私＝わたし、朝＝あさ）",
+        "page": 136,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "私は　たまご　を　買う　の　を　わすれました",
+        "backtext": "I forgot to buy eggs (私＝わたし、買う＝かう)",
+        "page": 137,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "はらう",
+        "backtext": "To pay (plain form)",
+        "page": 137,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "とどく",
+        "backtext": "to be delivered (plain form)",
+        "page": 137,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "去",
+        "backtext": "go away （きょう in 去ねん）",
+        "page": 144,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "去年",
+        "backtext": "Last year （きょねん）",
+        "page": 144,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "友",
+        "backtext": "friend （とも）",
+        "page": 144,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "友人",
+        "backtext": "Friend（ゆうじん）",
+        "page": 144,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "友だち",
+        "backtext": "Friend (ともだち)",
+        "page": 144,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "作",
+        "backtext": "Make (つく　in 作る)",
+        "page": 144,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "長",
+        "backtext": "Long, Chief (なが　in 長い、ちょう in か長)",
+        "page": 144,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "長い",
+        "backtext": "long (ながい)",
+        "page": 144,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "課長",
+        "backtext": "Chief かちょう",
+        "page": 144,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "方",
+        "backtext": "direction, way (ほう)",
+        "page": 144,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "作り方",
+        "backtext": "way to make, recipe, つくりかた",
+        "page": 144,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "夕方",
+        "backtext": "evening (ゆうがた)",
+        "page": 144,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "度",
+        "backtext": "Time, degree (ど)",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "一度",
+        "backtext": "Once more, on more time (いちど)",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "今度",
+        "backtext": "this time　こんど",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "山",
+        "backtext": "Mountain やま",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "富士山",
+        "backtext": "MMt. Fuji　ふじさん",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "川",
+        "backtext": "River かわ",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "山",
+        "backtext": "Mountain やま",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "山川",
+        "backtext": "Mountain and rivers",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "花",
+        "backtext": "Flower (はな)",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "花見",
+        "backtext": "Flower viewing (はなみ)",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "生け花",
+        "backtext": "Flower arranging いけばな",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "田んぼ",
+        "backtext": "Rice paddy field （たんぼ）",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "田中",
+        "backtext": "Tanaka (name)",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "山田",
+        "backtext": "Yamada (name)",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "土田",
+        "backtext": "Tsuchida (name)",
+        "page": 145,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "こええんかい",
+        "backtext": "Lecture presentation",
+        "page": 138,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "わしつ",
+        "backtext": "Japanese style room",
+        "page": 138,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "きに　いる",
+        "backtext": "Care for, like",
+        "page": 139,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "こうすい",
+        "backtext": "Perfume",
+        "page": 139,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "かおりが　する",
+        "backtext": "Smell, be fragrant",
+        "page": 139,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "かいがら",
+        "backtext": "sea shell",
+        "page": 139,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "うみに　しずむ　夕日　が　ほんとうに　きれいでした",
+        "backtext": "The sunset was truly beautiful (literally the evening sun that sunk into the sea was beautiful) (夕日＝ゆうひ)",
+        "page": 139,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "もの",
+        "backtext": "(concrete) thing",
+        "page": 139,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "こと",
+        "backtext": "(abstract) thing",
+        "page": 139,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "かんさつする",
+        "backtext": "to observe",
+        "page": 139,
+        "source": "book2"
     }
 ]
