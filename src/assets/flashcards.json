@@ -6257,7 +6257,7 @@
         "kanji":true,
         "fronttext":"北",
         "backtext": "North　きた",
-        "source": "ｃlass"
+        "source": "class"
     },
     {
         "kanji":true,
@@ -6911,5 +6911,303 @@
         "backtext": "to observe",
         "page": 139,
         "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "ちょうせんする",
+        "backtext": "Challenge oneself",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "色々な人に出会う",
+        "backtext": "To meet a variety of people（いろいろ　な　ひと　に　であう）",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "新しい文化を知る",
+        "backtext": "Get to know a　new culture (あたらしい　ぶんか　を　しる)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "世話　を　する",
+        "backtext": "To care for せわ　を　する",
+        "source": "class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "静かに　時間を　過ごす",
+        "backtext": "Spend time quietly しずかに　じかん　を　すごす",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "ビデオーゲーム　の　警官 が 長い 人 です",
+        "backtext": "People with lots of experience with video games　(けいけん, ながい, ひと)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "子供の頃　好　きだった　アニメ　は　何でしたか",
+        "backtext": "What was the anime you liked when you were a kid?　(こどものころ　すき　だった　あにめ　は　なん　でしたか)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "代々木さん　が　生まれた　の　は　どこ　ですか",
+        "backtext": "Where were you born Yoyogi-san? (代々木＝よよぎ、　生まれた＝うまれた)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "何年後　ですか",
+        "backtext": "How many years ago (was it)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "これ　は　私　が　好き　な　レストラン　の　写真　です",
+        "backtext": "This is a picture of a restaurant I like (わたし、すき、　しゃしん)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "どうして　好きに　なったん　ですか",
+        "backtext": "Why do you like it (lit: how did you come to like it) （好き＝すき）",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "先週",
+        "backtext": "Last week せんしゅう",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "春分の日",
+        "backtext": "Vernal equinox day (しゅんぶんのひ)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "再来週",
+        "backtext": "The week after next さらいしゅう",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "次",
+        "backtext": "Next つぎ",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "中頃",
+        "backtext": "Around the middle なかごろ",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "前半",
+        "backtext": "First half ぜんはん",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "後半",
+        "backtext": "The latter half こうはん",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "竿所の月曜日",
+        "backtext": "The first monday (さいしょ　の　げつようび)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "最後 の　メトロード",
+        "backtext": "the last metroid (さいご)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "一週目",
+        "backtext": "The first week (いっしゅうめ)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "最後のクラス　は　いつ　ですか",
+        "backtext": "When is the last class? (最後＝さいご)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "今度　の　週末",
+        "backtext": "The next weekend (こんど　の　しゅうまつ)",
+        "source": "class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "月末",
+        "backtext": "End of the month (げつまつ)",
+        "source": "class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "じぶん",
+        "backtext": "Oneself",
+        "page": 143,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "上旬",
+        "backtext": "First ten days of the month　（じょうじゅん）",
+        "page": 156,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "中旬",
+        "backtext": "Middle ten days of the month　（ちゅうじゅん）",
+        "page": 156,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "下旬",
+        "backtext": "Last ten days of the month　（げじゅん）",
+        "page": 156,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "休暇 を　とる",
+        "backtext": "to take vacation きゅうか",
+        "page": 157,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "うちあわせ",
+        "backtext": "Preparatory meeting",
+        "page": 157,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "来日",
+        "backtext": "Coming to Japan (らいにち)",
+        "page": 157,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "けんしゅう",
+        "backtext": "Training session (like for work)",
+        "page": 157,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "さいしょ",
+        "backtext": "The first",
+        "page": 156,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "さいご",
+        "backtext": "The last",
+        "page": 156,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "月末　に　フードフェア　が　ある の で　忙しい　です",
+        "backtext": "The end of the month is busy (の で indicates a reason simlar to kara) (月末＝げつまつ、忙しい＝いそがしい）",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "三週目　に　ペリーさん　が　来日する　ので　忙しい　です",
+        "backtext": "On the third week Perry's coming to Japan and it's going to be busy (三週目＝さんしゅうめ, 来日＝らいにち、忙しい＝いそがしい)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "気に入った　リュック　が　あったん　です　が、高かった ので、買いません でした",
+        "backtext": "There was a backpack that I liked but it was expensive so I didn't buy it 気に入った＝きにいった, 高＝た、　買い＝かい",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "安くて　かわいい　靴　が　あった　ので　その　靴　を　買いました",
+        "backtext": "There were some cheap and cute shoes, so I bought them. （安＝やす、靴＝くつ、買＝）",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "昨日　は　雨　でした。　雨　なので　どこにも　行きません　でした",
+        "backtext": "It rained yesterday, so I didn't go anywhere (昨日＝きのう、雨＝あめ、　行き)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "暇",
+        "backtext": "Free time ひま",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "明日　は　暇　です。　暇　なので、　映画　を　見に行きます",
+        "backtext": "Tomorrow I'm free, so I'm going to go see a movie. (明日＝あした、　暇＝ひま、　映画＝えいが、　見＝み、　行＝い",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "返し",
+        "backtext": "To return かえす",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "あずける",
+        "backtext": "give (to someone) to look after (R2)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "お金　を　変える",
+        "backtext": "Money exchange (お金＝おかね)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "お金　を 下ろす",
+        "backtext": "to withdraw money (お金＝おかね、下ろす＝おるす)",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "とめられます",
+        "backtext": "You can park (potential form of とめろ)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "お金　を　下ろせます",
+        "backtext": "You can withdraw money (お金＝おかね、下ろ＝おろ)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "使えます",
+        "backtext": "Can use (potential form) (つかえます)",
+        "source":"class"
     }
 ]
