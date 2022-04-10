@@ -7209,5 +7209,138 @@
         "fronttext": "使えます",
         "backtext": "Can use (potential form) (つかえます)",
         "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "きゅうか　を　いただきたい　の　です　が。。。",
+        "backtext": "I'd like to take a vacation (polite)",
+        "page": 151,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "それなら　いい　です　よ",
+        "backtext": "If that's the case, ok",
+        "page": 151,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "課長",
+        "backtext": "Section chief",
+        "page": 151,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "ねつが　あったので、学校を　休みました",
+        "backtext": "I had a fever, so I stayed home from school (学校＝がっこう、休み＝やすみ)",
+        "page": 152,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "から vs　ので",
+        "backtext": "から is used to convince someone, ので is used to explain",
+        "page": 152,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "いい　てんき　な　ので、　さんぽ　に　行きます",
+        "backtext": "It's nice weather out, so I'll go for a walk (行き＝いき)",
+        "page": 152,
+        "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "おととい",
+        "backtext": "The day before yesterday",
+        "page": 153,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "食べられる",
+        "backtext": "Can eat （たべられる）",
+        "page": 154,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "会える",
+        "backtext": "Can meet　（あえる）",
+        "page": 152,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "両",
+        "backtext": "both (りょう)",
+        "page": 162,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "親",
+        "backtext": "Parent (おや)",
+        "page": 162,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "初",
+        "backtext": "first (はじ)",
+        "page": 162,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "始",
+        "backtext": "start (はじ)",
+        "page": 162,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "出",
+        "backtext": "go/come out/put out (で、だ、出社＝しゅっしゃ)",
+        "page": 162,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "予",
+        "backtext": "in advance よ in 予定",
+        "page": 163,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "定",
+        "backtext": "fix てい　in 予定",
+        "page": 163,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "目",
+        "backtext": "eye め",
+        "page": 163,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "末",
+        "backtext": "last part, まつ in 週末",
+        "page": 163,
+        "source": "book2"
+    },
+    {
+        "kanji":true,
+        "fronttext": "思",
+        "backtext": "think おも in 思う",
+        "page": 163,
+        "source": "book2"
     }
 ]
