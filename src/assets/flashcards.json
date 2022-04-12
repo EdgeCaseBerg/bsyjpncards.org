@@ -7342,5 +7342,132 @@
         "backtext": "think おも in 思う",
         "page": 163,
         "source": "book2"
+    },
+    {
+        "kanji":false,
+        "fronttext": "この　デパート　で　にもつ　を　あずけられます",
+        "backtext": "At the department store I'll give you the luggage to take care of",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "使えます",
+        "backtext": "つかえます can use",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "会えますか",
+        "backtext": "Can we meet? (会え＝あえ)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "携帯電話　で　何が　できます　か",
+        "backtext": "What can you do with your phone （けいたいでんわ＝けいたいでんわ、　何＝なに）",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "見られますか",
+        "backtext": "Can you see it? (見＝み)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "来週　の　クラスに　来られますか",
+        "backtext": "Can you come to class next week? (来週＝らいしゅう、来＝こ)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "研修",
+        "backtext": "Work training　(研修＝けんしゅう)",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "ついて",
+        "backtext": "about",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "気持ち",
+        "backtext": "Feeling きもち",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "悔しい",
+        "backtext": "Regrettable, frustrating くやしい",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "驚きます",
+        "backtext": "to be surprised 驚き＝おどろき",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "悲しい",
+        "backtext": "Sad 悲しい＝かなしい",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "がっかりします",
+        "backtext": "To be disappointed",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "困ります",
+        "backtext": "to be troubled or bothered (こまります)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "大変　な　こと",
+        "backtext": "Difficult things（たいへん）",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "試合に勝つ",
+        "backtext": "Win the match (しあいにかつ)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "負ける",
+        "backtext": "To lose　まける",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "間違える",
+        "backtext": "To make a mistake まちがえる",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "エアコン　が　こわれて　おりました",
+        "backtext": "the air conditioner was broken and it was troublesome",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "間違えます",
+        "backtext": "To make a mistake まちがえます",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "日本語　を　間違えて　恥ずかしかった　です",
+        "backtext": "I made a mistake in Japanese and was embarassed. (日本語＝にほんご、間違え＝まちがえ、恥＝は)",
+        "source":"class"
     }
+
 ]
