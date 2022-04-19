@@ -7468,6 +7468,161 @@
         "fronttext": "日本語　を　間違えて　恥ずかしかった　です",
         "backtext": "I made a mistake in Japanese and was embarassed. (日本語＝にほんご、間違え＝まちがえ、恥＝は)",
         "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "見えます",
+        "backtext": "to come into sight. (Something is spontaneously visible, not to be confused with the potential form) みえます",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "富士山は　あまり　見えませんね",
+        "backtext": "It's hard to see Mt Fuji huh （富士山＝ふじさん、見＝み）",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "聞けます",
+        "backtext": "Can listen　聞けます＝きけます",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "聞こえます",
+        "backtext": "to reach one's ear (not the potential form)　(聞こえ＝きこえ)",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "がっかり",
+        "backtext": "disappointed",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "しあい　に　かって　うれしかった　です",
+        "backtext": "We won the match so we were happy",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "行こう　と　思っているん　です",
+        "backtext": "I'm thinking of going （行＝い、思＝おも）",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "ならおう　を　おもって　います",
+        "backtext": "Thinking of learning...",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "続けて　日本語　を　頑張る",
+        "backtext": "I'm planning to continue doing my best　(続=つづ、　日本語=にほんご、頑張=がんば)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "贈る",
+        "backtext": "To give as a gift (贈る＝おくる, same sound as to send but different kanji)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "母の日に　花　を　贈ろう　と　思っています",
+        "backtext": "For mothers day I'm planning on giving my mom flowers as a gift (母＝はは、日＝ひ、花＝はな、贈＝おく)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "急ごう",
+        "backtext": "Let's hurry　急＝いそ",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "珍しい　動物",
+        "backtext": "Rare めすらしい　どうぶつ",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "初めて　行くん　ですか",
+        "backtext": "Is this your first time going? (初＝はじ、行＝い)",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "くじら",
+        "backtext": "Whale",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "ブリスベンの　近くの海　で　くじら　が　目られますか",
+        "backtext": "Can you see whales in the ocean near Brisbane, 近く＝ちかく、海＝うみ、見＝み",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "みられるか　どうか",
+        "backtext": "Whether one can or not see",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "オーストラリアに　行く　か　どうか　わかりませえん",
+        "backtext": "I don't know whether I'm going to australia (行く＝いく)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "オーストラリアに　いつ　行く　か　わかりません",
+        "backtext": "I don't know when I'm going to Australia (行く＝いく)",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "できる　か　どうか　わかりませえん",
+        "backtext": "I don't know whether you can",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "高い　か　どうか　わかりませえん",
+        "backtext": "I don't know if it's expensive (高い＝たかい)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "有名　か　どうか　わかりません",
+        "backtext": "I don't know if it's famous or not (有名＝ゆうめい)",
+        "source":"class"
+    },
+    {
+        "kanji":false,
+        "fronttext": "にほんじん　か　どうか　わかりません",
+        "backtext": "I don't know whether they're japanese or not",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "どこで 　会え　か　 教えて　下さい。",
+        "backtext": "Tell me where you can meet (教えて＝おしえて、　下さい＝ください)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "どれに　しようか、迷っているん　です",
+        "backtext": "Which one should I choose, I'm at a loss　(迷って＝まよって)",
+        "source":"class"
+    },
+    {
+        "kanji":true,
+        "fronttext": "相談に乗りましょう",
+        "backtext": "If you like, I'll give you advice (そうだん　に　のりましょうか)",
+        "source":"class"
     }
-
 ]
