@@ -7624,5 +7624,239 @@
         "fronttext": "相談に乗りましょう",
         "backtext": "If you like, I'll give you advice (そうだん　に　のりましょうか)",
         "source":"class"
+    },
+    {
+        "kanji": false,
+        "fronttext" : "どうし",
+        "backtext": "Verb",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext" : "ごだん",
+        "backtext": "R1 verb or an u- verb",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext" : "いちだん",
+        "backtext": "R2 verb or an ru- verb",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext" : "ふきそく",
+        "backtext": "Irregular verbs",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext" : "かけない",
+        "backtext": "Can't write (plain form)",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext" : "たとう",
+        "backtext": "Let's stand (plain, volitional)",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "飲もう　と　おもっています",
+        "backtext": "I'm thinking of drinking (飲＝の)",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext" : "しゅうまつに　あそぼう　と　おもっています",
+        "backtext": "This weekend I'm thinking about going out (to play)",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "急ぐ",
+        "backtext": "To hurry (いそぐ)",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "今度　日本に　行きたい　ですね。 日本に　行く　予定　は？",
+        "backtext": "I want to go to Japan soon, what's the plan to go to Japan? (今度＝こんど、日本＝にほん、　行きたい＝いきたい、予定＝よてい)",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext" : "いきたかった",
+        "backtext": "Wanted to go (Desiderative past form)",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "週発",
+        "backtext": "Depatures　しゅうっぱつ",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "BTV 溌　HND 着",
+        "backtext": "Departing BTV はつ, Arriving in HND　ちゃく",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "片道",
+        "backtext": "One way flight　かたみち",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "往復",
+        "backtext": "Round trip flight おうふく",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "東京 の　旅館 の 料金　を　調べる",
+        "backtext": "Research the price of Inns in Tokyo　(東京＝とうきょう、旅館＝りょかん、料金＝りょうきん、調べる＝しらべる)",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext" : "きょうみ",
+        "backtext": "Interest",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext" : "きょうみ　が　ある",
+        "backtext": "I'm interested",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "日帰り",
+        "backtext": "One day ひがえり",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "参加",
+        "backtext": "participate さんか",
+        "source": "class"
+    },
+    {
+        "kanji": false,
+        "fronttext" : "アニメの名称を回る",
+        "backtext": "Go around (to) anime places of interest （あにめ　の　めいしょ　を　まわる）",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "アニメ聖地８８に　行ってみよう！",
+        "backtext": "Let's try to go the 88 sacred anime spots! (聖地＝せいち)",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "お湯が沸く",
+        "backtext": "The water boils (おゆがわく) (intransitive)",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "お湯を沸かす",
+        "backtext": "I boil water おゆをわかす",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "肉が焼ける",
+        "backtext": "The meat roasts  (にくがやける) (intransitive)",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "肉を焼く",
+        "backtext": "にくをやく I roast meat",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "焼ける",
+        "backtext": "Cook thoroughly, heat up, roast, grill, broil, bake, toast, barbecue, burn (including sun burn!) （やける）",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "肉が煮える",
+        "backtext": "The meat cooks in liquid/is boiled (にくがにえる)",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "肉を煮る",
+        "backtext": "I cook the meat (in liquid)（にくをにる）",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "炒める",
+        "backtext": "いためる stir fry",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "揚げる",
+        "backtext": "あげる to deep fry",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "野菜を切る",
+        "backtext": "to cut the vegetables やさいをきる",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "入れる",
+        "backtext": "to put in いれる",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "しお",
+        "backtext": "Salt",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "佐藤",
+        "backtext": "Sugar さとう",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "油",
+        "backtext": "oil あぶら",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "豚肉",
+        "backtext": "pork　ぶたにく",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "魚",
+        "backtext": "Fish さかな",
+        "source": "class"
+    },
+    {
+        "kanji": true,
+        "fronttext" : "焼けたら",
+        "backtext": "When it's done cooking やけたら",
+        "source": "class"
     }
 ]
